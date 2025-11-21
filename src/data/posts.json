@@ -1,5 +1,58 @@
 [
   {
+    "id": "zzkxipp50",
+    "url": "https://youtu.be/GUDXBQWsFgw?si=qKZnXkseEXH1kZ9S|https://youtu.be/GUDXBQWsFgw?si=qKZnXkseEXH1kZ9S",
+    "title": " - YouTube",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-21",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "0ujwjnl7o",
+    "url": "https://www.makuake.com/project/looktech/",
+    "title": "Makuake｜ハンズフリーのAI世界へ。新時代を切り拓くLooktech AIスマートグラス｜Makuake（マクアケ）",
+    "description": "もう、スマホ片手にAIと話すのは終わり！Looktechスマートグラスがあなたの両手を解放。AIがあなたの目と耳となり、もっとスマートな日常へ進化させる！時代の先端を駆け抜ける、ハイテク製品の進化形！海外で1.6億円超の支援を獲得して大ヒット！複数のAIモデルを日常に使えるガジェットに埋め込んだ渾身の最新作、「Looktech（ルックテック）AIスマートグラス」がついに日本初登場（※）！※日本での",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-21",
+    "imageUrl": "https://static.makuake.com/upload/project/48384/main_48384.jpg?version=1760428579&width=690&height=388"
+  },
+  {
+    "id": "n8k27pgw0",
+    "url": "https://www.ai-souken.com/article/what-is-nano-banana-pro#nano-banana-pro%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "title": "Nano Banana Proとは？使い方や料金、回数制限について解説！【無料】 | AI総合研究所",
+    "description": "Googleの最新画像生成「Nano Banana Pro (Gemini 3 Pro Image)」を徹底解説。使い方から料金、プロンプトのコツ、商用利用までを紹介します。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-21",
+    "imageUrl": "https://www.ai-souken.com/sample.png"
+  },
+  {
+    "id": "x5s820ve3",
+    "url": "https://gemini.google/jp/subscriptions/?hl=ja",
+    "title": "Google AI Pro と Ultra で Gemini 2.5 Pro などにアクセス",
+    "description": "Gemini 2.5 Pro、Veo 3 による動画生成、Deep Research など、Google AI の最先端の機能をご利用いただけます。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-21",
+    "imageUrl": "https://lh3.googleusercontent.com/1E500rkSh8Gqkz2l12tkrKkMgsDmbQot0h3afeiRukXNficphb2zEE8o6J3dSKkiDGOOCcQ8WtRYzEYudgiYK9FkoQeYg_SP92-C=e365-pa-nu-w1200"
+  },
+  {
     "id": "j5aodtvx3",
     "url": "https://youtu.be/GUDXBQWsFgw?si=qKZnXkseEXH1kZ9S|https://youtu.be/GUDXBQWsFgw?si=qKZnXkseEXH1kZ9S",
     "title": " - YouTube",
