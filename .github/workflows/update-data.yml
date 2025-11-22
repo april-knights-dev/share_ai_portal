@@ -1,4 +1,4 @@
-name: Update Data
+name: Update Data and Deploy
 
 on:
   schedule:
@@ -7,10 +7,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-update"
+  cancel-in-progress: false
 
 jobs:
-  update-data:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,3 +45,18 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add src/data/posts.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update posts data" && git push)
+
+      - name: Build
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
