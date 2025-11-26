@@ -1,5 +1,98 @@
 [
   {
+    "id": "9ruh6o86g",
+    "url": "https://blog.google/products/gemini/gemini-3/",
+    "title": "A new era of intelligence with Gemini 3",
+    "description": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg"
+  },
+  {
+    "id": "smy8ukfcx",
+    "url": "https://antigravity.google/",
+    "title": "Google Antigravity",
+    "description": "Google Antigravity - Build the new way",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://antigravity.google/assets/image/sitecards/sitecard-default.png"
+  },
+  {
+    "id": "h4v8vxrm7",
+    "url": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security",
+    "title": "Microsoft Agent 365 lets businesses manage AI agents like they do people",
+    "description": "AI agents are getting some much-needed controls.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/chrome_9xOookFsx9.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "id": "p5vyrg990",
+    "url": "https://mag.executive.itmedia.co.jp/executive/articles/2509/30/news031.html",
+    "title": "AIに賭けるDeNA、データガバナンスで安心・安全を",
+    "description": "四半世紀前に創業したDeNAは現在、第2の創業と位置づけ、AIにオールインすることを宣言、AIを軸にしたさまざまな戦略を進める中、安心・安全なAI活用を支えるべく、データガバナンスに取り組んでいる。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://image.itmedia.co.jp/executive/articles/2509/30/l_yf_250930dena01.jpg"
+  },
+  {
+    "id": "zh0houfpk",
+    "url": "https://www.watch.impress.co.jp/docs/news/2064334.html",
+    "title": "Microsoft 365 Copilot、Word、Excel、パワポなどAIエージェント本格搭載",
+    "description": "Microsoftは18日(米国時間)、Microsoft 365 Copilotの新機能を発表した。「Work IQ」と呼ぶ新たな基盤を活用し、Word、Excel、PowerPointエージェントなどOfficeアプリのAIエージェント対応を強化していく。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2064/334/ms00.jpg"
+  },
+  {
+    "id": "cp6q3k8vl",
+    "url": "https://arxiv.org/abs/2412.08905",
+    "title": "Phi-4 Technical Report",
+    "description": "We present phi-4, a 14-billion parameter language model developed with a training recipe that is centrally focused on data quality. Unlike most language models, where pre-training is based primarily on organic data sources such as web content or code, phi-4 strategically incorporates synthetic data throughout the training process. While previous models in the Phi family largely distill the capabilities of a teacher model (specifically GPT-4), phi-4 substantially surpasses its teacher model on STEM-focused QA capabilities, giving evidence that our data-generation and post-training techniques go beyond distillation. Despite minimal changes to the phi-3 architecture, phi-4 achieves strong performance relative to its size -- especially on reasoning-focused benchmarks -- due to improved data, training curriculum, and innovations in the post-training scheme.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "00aik1xde",
+    "url": "https://workstyle-evolution.co.jp/",
+    "title": "Workstyle Evolution ～ChatGPTの導入・活用なら",
+    "description": "リモートワークやAI活用の変化をサポート。生成AIコンサルティングや講演、ChatGPT研修やチームプラン導入サービスを通じて、業務改善をご支援。YouTubeや書籍でトレンド情報も発信中。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-25",
+    "imageUrl": "https://framerusercontent.com/images/3b7XXM4M28DUxViOEUrqTj6Se3o.png"
+  },
+  {
     "id": "gqivb3gok",
     "url": "https://blog.google/products/gemini/gemini-3/",
     "title": "A new era of intelligence with Gemini 3",
