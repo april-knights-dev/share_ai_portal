@@ -1,5 +1,47 @@
 [
   {
+    "id": "5hz6i2gw5",
+    "url": "https://github.com/github/awesome-copilot/blob/main/docs/README.agents.md",
+    "title": "awesome-copilot/docs/README.agents.md at main · github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. - github/awesome-copilot",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-11-26",
+    "imageUrl": "https://opengraph.githubassets.com/076342084b22fd4a03ff5a5fac5f89746e1adac13f9ed5e52b39cd46f3769f7c/github/awesome-copilot"
+  },
+  {
+    "id": "dsmkm2j7k",
+    "url": "https://github.com/github/awesome-copilot/blob/main/docs/README.prompts.md",
+    "title": "awesome-copilot/docs/README.prompts.md at main · github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. - github/awesome-copilot",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-11-26",
+    "imageUrl": "https://opengraph.githubassets.com/076342084b22fd4a03ff5a5fac5f89746e1adac13f9ed5e52b39cd46f3769f7c/github/awesome-copilot"
+  },
+  {
+    "id": "0y6z195ja",
+    "url": "https://github.com/github/awesome-copilot/blob/main/docs/README.instructions.md",
+    "title": "awesome-copilot/docs/README.instructions.md at main · github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. - github/awesome-copilot",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-11-26",
+    "imageUrl": "https://opengraph.githubassets.com/076342084b22fd4a03ff5a5fac5f89746e1adac13f9ed5e52b39cd46f3769f7c/github/awesome-copilot"
+  },
+  {
     "id": "9ruh6o86g",
     "url": "https://blog.google/products/gemini/gemini-3/",
     "title": "A new era of intelligence with Gemini 3",
