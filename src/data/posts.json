@@ -1,5 +1,47 @@
 [
   {
+    "id": "m7km3nwl2",
+    "url": "https://gemini.google.com/gems/create",
+    "title": "‎Google Gemini",
+    "description": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-28",
+    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
+  },
+  {
+    "id": "c5sslunc2",
+    "url": "https://qiita.com/ntaka329/items/6609861b7149c2ee8331",
+    "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた - Qiita",
+    "description": "はじめに GMOコネクトの永田です。 エンジニアやアーキテクトの皆さん、こんな経験はありませんか？ 「この技術的な内容、文字だけじゃ分かりにくいから絵で説明して」 分かりやすく説明したい気持ちはあるものの、AWS構成図やアーキテクチャ図を作るのは正直かなり面倒。構成を整理...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-28",
+    "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTc0MTgwJTJGZDcwMzlhMTI3M2Q5ZDhmZjljOTE3NTI1Y2Q5ZDk1NDlmM2MxOWJkMiUyRnhfbGFyZ2UucG5nJTNGMTc1NjI3NDgwOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Mzk5ZjczZWNiYTc5ZGJmZWUwYjJiYWRiN2FjOGQxMTQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01MTU4NTU3MDhiYjU3YTNkNjYxZGZmZWQ4YmZkMWNiNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D04b2575760599b7aed5755edc47b452a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFFJUUzJTgwJThDJUU3JUI1JUI1JUUzJTgxJUE3JUU4JUFBJUFDJUU2JTk4JThFJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgwJTgxTmFubyUyMEJhbmFuYSUyMFBybyVFRiVCQyU4OEdlbWluaSUyMDMlMjBQcm8lMjBJbWFnZSVFRiVCQyU4OSVFMyU4MSVBNyVFMyU4MSVBOSVFMyU4MSU5MyVFMyU4MSVCRSVFMyU4MSVBNyVFOCVBNyVBMyVFNiVCNiU4OCVFMyU4MSVBNyVFMyU4MSU4RCVFMyU4MiU4QiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThkYWYyNDZhYTYwYzVmYzg1NDI5NWI2Yjg4MDVjZjU3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBudGFrYTMyOSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMyMjY1MWI5MTUzMzZlYWQ4YTlhZjc3NzY3YWM4NTY4&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=9982306c77177d13ab2ea6a29e62fc25"
+  },
+  {
+    "id": "22qrt4kyb",
+    "url": "https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items#-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%81%A7%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%9F%E7%82%B9|https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items#-%E3%83%97[…]9F%E7%82%B9",
+    "title": "【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方 - Qiita",
+    "description": "🏰 できたもの Gemini 3 Pro を使って、以下を実現できる Gem を作成しました。 ニュースを収集して、きれいに一覧化してくれる ~~ カテゴリごとにフィルターすることも可能です ~~ カードをクリックするとニュースの詳細を見ることができます ~~ 入力...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-11-28",
+    "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTA3MTclMkYzNzk3NjA4MjA3ZDAxOWYyNDYwN2I2NDMwNWJiMzExZmRjNjhjZDU5JTJGbGFyZ2UucG5nJTNGMTU3NDQ1NjA4MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjA1YWIyYzk5MjgwZWEyN2MzYjYzZGNiMDBmNDcyN2Y%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D459ec358482c51c5c97274656a38ff5e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwR2VtaW5pJTIwMyUyMFBybyVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MyU5NCVFMyU4MyU5QSVFNSU4RiVBRiVFOCU4MyVCRCVFRiVCQyU5QSVFMyU4MyU4QiVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCOSVFNSU4RiU4RSVFOSU5QiU4NiVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MyVBQSVFMyU4MyU4MyVFMyU4MyU4MSVFMyU4MSVBQVVJJUU3JTk0JTlGJUU2JTg4JTkwJUUzJTgxJUJFJUUzJTgxJUE3JUU1JTg1JUE4JUU4JTg3JUFBJUU1JThCJTk1JUU1JThDJTk2JUUzJTgxJTk5JUUzJTgyJThCJTIwR2VtJTIwJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTAwZTYxMTRhODM5ZWIxMmI3ZWUwMTgxYjM2ZjdlN2Y&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBSeW8tTmFrYW5vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGUyNTRmYjU3YTYzZDkwMzdiMDc0YjA2NWQ5ODMzMzU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e425ab6f91347463c96f6db5aa9a3385"
+  },
+  {
     "id": "wpd7y3rb1",
     "url": "https://gemini.google.com/gems/create",
     "title": "‎Google Gemini",
