@@ -1,5 +1,98 @@
 [
   {
+    "id": "4oml1zd9h",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5",
+    "title": "Introducing Claude Opus 4.5",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&backgroundColor=clay"
+  },
+  {
+    "id": "p8n796883",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2066584.html",
+    "title": "「NotebookLM」的なマイクロソフトのAIノート「Copilot Notebooks」が消費者向けに公開／Microsoft 365 Personal/Family/Premiumで利用可能",
+    "description": "　米Microsoftは11月19日（現地時間）、「Copilot Notebooks」が「Microsoft 365」の消費者向けプラン（Personal、Family、Premium）で利用可能になったと発表した。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2066/584/copilot_notebook.jpg"
+  },
+  {
+    "id": "76e17zc46",
+    "url": "https://github.com/langgenius/dify/releases",
+    "title": "Releases · langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development. - langgenius/dify",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://repository-images.githubusercontent.com/626805178/6616f28b-ae4c-44e6-8b4c-e3c3396315e9"
+  },
+  {
+    "id": "ok49s06rv",
+    "url": "https://cloud.watch.impress.co.jp/docs/event/2064589.html",
+    "title": "リリース数カ月で利用率70％──キリンの生成AI浸透、成功の方程式とは",
+    "description": "新入社員が講師、500名が自主的にアンバサダーに――。キリンホールディングスで今、生成AI活用の熱が組織全体に広がっている。その背景にあるのは、緻密に設計された「浸透の方程式」だ。「生成AI Day 2025」（主催：インプレス、2025年9月18日）でキリンホールディングス DX戦略推進室長 野々村 俊介氏が語ったキリンの生成AI戦略の全貌を紹介する。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://cloud.watch.impress.co.jp/img/clw/list/2064/589/3633.jpg"
+  },
+  {
+    "id": "3dky82luw",
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "title": "Effective harnesses for long-running agents",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/32ea71b3e8e87a990f6df4c4def2b9e52815e977-2400x1260.png"
+  },
+  {
+    "id": "b38ldf0g8",
+    "url": "https://arxiv.org/abs/2511.10395",
+    "title": "AgentEvolver: Towards Efficient Self-Evolving Agent System",
+    "description": "Autonomous agents powered by large language models (LLMs) have the potential to significantly enhance human productivity by reasoning, using tools, and executing complex tasks in diverse environments. However, current approaches to developing such agents remain costly and inefficient, as they typically require manually constructed task datasets and reinforcement learning (RL) pipelines with extensive random exploration. These limitations lead to prohibitively high data-construction costs, low exploration efficiency, and poor sample utilization. To address these challenges, we present AgentEvolver, a self-evolving agent system that leverages the semantic understanding and reasoning capabilities of LLMs to drive autonomous agent learning. AgentEvolver introduces three synergistic mechanisms: (i) self-questioning, which enables curiosity-driven task generation in novel environments, reducing dependence on handcrafted datasets; (ii) self-navigating, which improves exploration efficiency through experience reuse and hybrid policy guidance; and (iii) self-attributing, which enhances sample efficiency by assigning differentiated rewards to trajectory states and actions based on their contribution. By integrating these mechanisms into a unified framework, AgentEvolver enables scalable, cost-effective, and continual improvement of agent capabilities. Preliminary experiments indicate that AgentEvolver achieves more efficient exploration, better sample utilization, and faster adaptation compared to traditional RL-based baselines.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "238cu5nup",
+    "url": "https://workstyle-evolution.co.jp/",
+    "title": "Workstyle Evolution ～ChatGPTの導入・活用なら",
+    "description": "リモートワークやAI活用の変化をサポート。生成AIコンサルティングや講演、ChatGPT研修やチームプラン導入サービスを通じて、業務改善をご支援。YouTubeや書籍でトレンド情報も発信中。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-05",
+    "imageUrl": "https://framerusercontent.com/images/3b7XXM4M28DUxViOEUrqTj6Se3o.png"
+  },
+  {
     "id": "xt4mhwh16",
     "url": "https://note.com/datag_inc/n/n882158fdadc3",
     "title": "「人間らしい文章」をAIで書くために、試行錯誤して見つけた私の答え【Dify活用】｜datag株式会社",
