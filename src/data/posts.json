@@ -1,5 +1,217 @@
 [
   {
+    "id": "f519p5iqi",
+    "url": "https://wisprflow.ai/",
+    "title": "Wispr Flow | Effortless Voice Dictation",
+    "description": "Flow makes writing quick and clear with seamless voice dictation. It is the fastest, smartest way to type with your voice.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/683c611aba65ade013982bcd_wispr-og-min.jpg"
+  },
+  {
+    "id": "3ocusw71u",
+    "url": "https://superwhisper.com/",
+    "title": "superwhisper",
+    "description": "AI powered voice to text for macOS",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://superwhisper.com/image/og-image2x.png"
+  },
+  {
+    "id": "sb8myldir",
+    "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+    "title": "All the biggest news from AWS' big tech show re:Invent 2025 | TechCrunch",
+    "description": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
+  },
+  {
+    "id": "gjz11x7w8",
+    "url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
+    "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+    "description": "The first three frontier agents revolutionize how you build, secure, and operate software.",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://assets.aboutamazon.com/dims4/default/666bb6f/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg"
+  },
+  {
+    "id": "gmmm6uom8",
+    "url": "https://mistral.ai/news/mistral-3",
+    "title": "Introducing Mistral 3 | Mistral AI",
+    "description": "A family of frontier open-source multimodal models",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+  },
+  {
+    "id": "1ai4dt7ct",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
+    "title": "deepseek-ai/DeepSeek-V3.2 · Hugging Face",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png"
+  },
+  {
+    "id": "7y9qwm8jo",
+    "url": "https://telex.automattic.ai/",
+    "title": "Telex — AI-Assisted Authoring Environment for WordPress Blocks",
+    "description": "Transform ideas into fully functional WordPress blocks with Telex.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://telex.automattic.ai/public/img/meta-og-tag.png"
+  },
+  {
+    "id": "ipwf00u8s",
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/caio-survey-2025.html",
+    "title": "CAIO実態調査2025―AI経営の成否を分けるリーダーの条件​",
+    "description": "企業におけるAI活用を戦略的に推進する役割を担うのがCAIO（Chief AI Officer：最高AI責任者）ですが、具体的な役割などは企業によってさまざまです。こうした状況を踏まえ、PwCは、企業のCAIO設置の実態、CAIOの人物像、その成果を明らかにするために、「CAIO実態調査 2025」を実施しました。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://www.pwc.com/glob/dpe/en/inline-images/pwc-gx-supporting-800x450-gettyimages-2164504974.jpg"
+  },
+  {
+    "id": "nl0tnt0yx",
+    "url": "https://workstyle-evolution.co.jp/",
+    "title": "Workstyle Evolution ～ChatGPTの導入・活用なら",
+    "description": "リモートワークやAI活用の変化をサポート。生成AIコンサルティングや講演、ChatGPT研修やチームプラン導入サービスを通じて、業務改善をご支援。YouTubeや書籍でトレンド情報も発信中。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://framerusercontent.com/images/3b7XXM4M28DUxViOEUrqTj6Se3o.png"
+  },
+  {
+    "id": "t5kwsdbwr",
+    "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+    "title": "All the biggest news from AWS' big tech show re:Invent 2025 | TechCrunch",
+    "description": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
+  },
+  {
+    "id": "nwbwx5o51",
+    "url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
+    "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+    "description": "The first three frontier agents revolutionize how you build, secure, and operate software.",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://assets.aboutamazon.com/dims4/default/666bb6f/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg"
+  },
+  {
+    "id": "bd459a3ma",
+    "url": "https://mistral.ai/news/mistral-3",
+    "title": "Introducing Mistral 3 | Mistral AI",
+    "description": "A family of frontier open-source multimodal models",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+  },
+  {
+    "id": "6vchb7oag",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
+    "title": "deepseek-ai/DeepSeek-V3.2 · Hugging Face",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png"
+  },
+  {
+    "id": "9fhl9mpzl",
+    "url": "https://telex.automattic.ai/",
+    "title": "Telex — AI-Assisted Authoring Environment for WordPress Blocks",
+    "description": "Transform ideas into fully functional WordPress blocks with Telex.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://telex.automattic.ai/public/img/meta-og-tag.png"
+  },
+  {
+    "id": "k7cizd8os",
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/caio-survey-2025.html",
+    "title": "CAIO実態調査2025―AI経営の成否を分けるリーダーの条件​",
+    "description": "企業におけるAI活用を戦略的に推進する役割を担うのがCAIO（Chief AI Officer：最高AI責任者）ですが、具体的な役割などは企業によってさまざまです。こうした状況を踏まえ、PwCは、企業のCAIO設置の実態、CAIOの人物像、その成果を明らかにするために、「CAIO実態調査 2025」を実施しました。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://www.pwc.com/glob/dpe/en/inline-images/pwc-gx-supporting-800x450-gettyimages-2164504974.jpg"
+  },
+  {
+    "id": "u4dxwexqd",
+    "url": "https://workstyle-evolution.co.jp/",
+    "title": "Workstyle Evolution ～ChatGPTの導入・活用なら",
+    "description": "リモートワークやAI活用の変化をサポート。生成AIコンサルティングや講演、ChatGPT研修やチームプラン導入サービスを通じて、業務改善をご支援。YouTubeや書籍でトレンド情報も発信中。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-11",
+    "imageUrl": "https://framerusercontent.com/images/3b7XXM4M28DUxViOEUrqTj6Se3o.png"
+  },
+  {
     "id": "viu9n81wp",
     "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
     "title": "All the biggest news from AWS' big tech show re:Invent 2025 | TechCrunch",
