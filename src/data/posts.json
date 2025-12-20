@@ -1,5 +1,100 @@
 [
   {
+    "id": "p8fwf71oa",
+    "url": "https://claude.com/blog/claude-and-slack",
+    "title": "Claude and Slack | Claude",
+    "description": "Access Claude directly into Slack so you can get help in channels and threads, or connect your Slack workspace to Claude for searching conversations and pulling context when you need it.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69050faaf1c82e21ceab419b_og_claude-and-slack.jpg"
+  },
+  {
+    "id": "sox06s294",
+    "url": "https://aaif.io/",
+    "title": "Agentic AI Foundation (AAIF)",
+    "description": "Agentic AI Foundation (AAIF) is the neutral and open foundation built on transparency, collaboration, and standardization to advance the public interest in agentic AI innovation.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://aaif.io/wp-content/uploads/sites/59/2025/12/aaif_soc.png"
+  },
+  {
+    "id": "dnzk6ce29",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2512/10/news061.html",
+    "title": "Anthropic、「Model Context Protocol」（MCP）をLinux Foundation傘下のAAIFに寄贈",
+    "description": "Anthropicは、同社主導のオープン標準「Model Context Protocol」（MCP）を、Linux Foundation傘下の「Agentic AI Foundation」（AAIF）に寄贈した。MCPはAAIFの創設プロジェクトの1つとなり、長期的に中立でオープンな標準として維持される。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2512/10/cover_news061.jpg"
+  },
+  {
+    "id": "ehevx9rnq",
+    "url": "https://blog.google/technology/developers/deep-research-agent-gemini-api/",
+    "title": "Build with Gemini Deep Research",
+    "description": "We have reimagined Gemini Deep Research to be more powerful than ever, now accessible to developers via the new Interactions API.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiDeepResearch-Keyword_RD1-V01.width-1300.png"
+  },
+  {
+    "id": "1t3bcsujy",
+    "url": "https://tech.speee.jp/entry/dify_prompt_tuning",
+    "title": "AIで営業データの構造化を完全自動化する 〜Difyプロンプトチューニング編〜 - Speee DEVELOPER BLOG",
+    "description": "※この記事は、2025 Speee Advent Calendar 12日目の記事です。 昨日の記事はこちら tech.speee.jp こんにちは、Speee リフォームDX事業本部 プロダクトマネージャーの嶋です。 以前書いた記事、組織全体の開発スループットを劇的に向上させた「AIプランナー」とは？ でも触れたように、私たちは現在、AIを前提にバリューチェーンを再創造する「AX（AI Transformation）」に取り組んでいます。 その最終的な到達点の一つとして掲げているのが「接客の完全AI化」です。 今回はその第一歩として、外壁塗装の会社探しサイト「ヌリカエ」における 「電話営業デ…",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://ogimage.blog.st-hatena.com/6653586347153657344/17179246901329704281/1765522762"
+  },
+  {
+    "id": "1alo7357d",
+    "url": "https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide",
+    "title": "GPT-5.2 Prompting Guide | OpenAI Cookbook",
+    "description": "GPT-5.2 is our newest flagship model for enterprise and agentic workloads, designed to deliver higher accuracy, stronger instruction foll...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://cookbook-7ji2cr31p-openai.vercel.app/og?title=GPT-5.2%20Prompting%20Guide&tags=gpt-5.2"
+  },
+  {
+    "id": "nrzpk9hh1",
+    "url": "https://openrouter.ai/state-of-ai",
+    "title": "State of AI | OpenRouter",
+    "description": "An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-19",
+    "imageUrl": "https://openrouter.ai/dynamic-og?pathname=state-of-ai&title=State+of+AI&description=An+empirical+study+analyzing+over+100+trillion+tokens+of+real-world+LLM+interactions+across+tasks%2C+geographies%2C+and+time."
+  },
+  {
     "id": "30a4l5zqi",
     "url": "https://claude.com/blog/claude-and-slack",
     "title": "Claude and Slack | Claude",
