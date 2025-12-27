@@ -1,5 +1,100 @@
 [
   {
+    "id": "003t703gd",
+    "url": "https://agentskills.io/home",
+    "title": "Overview - Agent Skills",
+    "description": "A simple, open format for giving agents new capabilities and expertise.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://agent-skills.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DOverview%26description%3DA%2Bsimple%252C%2Bopen%2Bformat%2Bfor%2Bgiving%2Bagents%2Bnew%2Bcapabilities%2Band%2Bexpertise.%26primaryColor%3D%25237f7f7f%26lightColor%3D%2523bfbfbf%26darkColor%3D%2523404040%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0d0f&w=1200&q=100"
+  },
+  {
+    "id": "owfpx04ek",
+    "url": "https://mistral.ai/news/mistral-ocr",
+    "title": "Mistral OCR | Mistral AI",
+    "description": "Introducing the world’s best document understanding API.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+  },
+  {
+    "id": "aio6b7yqe",
+    "url": "https://www.engadget.com/ai/openai-just-launched-an-app-store-inside-chatgpt-133049586.html",
+    "title": "OpenAI just launched an app store inside ChatGPT",
+    "description": "OpenAI has introduced an app directory that's now available right inside ChatGPT.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jNqo3DTWNsrsYVJCrXDjOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/9bc5c440-7ccb-11f0-bced-bfd1aaa2aeb0"
+  },
+  {
+    "id": "orqabrehj",
+    "url": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
+    "title": "Google's vibe-coding tool Opal comes to Gemini | TechCrunch",
+    "description": "The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675"
+  },
+  {
+    "id": "y177ilz4j",
+    "url": "https://arxiv.org/abs/2511.17006",
+    "title": "Budget-Aware Tool-Use Enables Effective Agent Scaling",
+    "description": "Scaling test-time computation improves performance across different tasks on large language models (LLMs), which has also been extended to tool-augmented agents. For these agents, scaling involves not only \"thinking\" in tokens but also \"acting\" via tool calls. The number of tool calls directly bounds the agent's interaction with the external environment. However, we find that simply granting agents a larger tool-call budget fails to improve performance, as they lack \"budget awareness\" and quickly hit a performance ceiling. To address this, we study how to scale such agents effectively under explicit tool-call budgets, focusing on web search agents. We first introduce the Budget Tracker, a lightweight plug-in that provides the agent with continuous budget awareness, enabling simple yet effective scaling. We further develop BATS (Budget Aware Test-time Scaling), an advanced framework that leverages this awareness to dynamically adapt its planning and verification strategy, deciding whether to \"dig deeper\" on a promising lead or \"pivot\" to new paths based on remaining resources. To analyze cost-performance scaling in a controlled manner, we formalize a unified cost metric that jointly accounts for token and tool consumption. We provide the first systematic study on budget-constrained agents, showing that budget-aware methods produce more favorable scaling curves and push the cost-performance Pareto frontier. Our work offers empirical insights toward a more transparent and principled understanding of scaling in tool-augmented agents.",
+    "category": "ツール",
+    "tags": [
+      "AI",
+      "Tech",
+      "Tool"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "tbw352n6m",
+    "url": "https://www.businessinsider.jp/article/2512six-months-after-line-yahoo-mandated-ai-usage-the-current-status/",
+    "title": "大企業の「AI義務化」6カ月後の現在…LINEヤフーが取り組む「2倍の効率化」は実現できるか | Business Insider Japan",
+    "description": "生成AIを業務に取り入れる企業は増えているが、その活用を社員に義務として課しているケースは珍しい事例です。7月に義務化を公表したLINEヤフーに、6カ月が経過した「義務化後の現在」を取材しました。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://media.loom-app.com/loom/2025/12/17/fdf20ed1-bb48-4cbb-8a93-2564024f8cb2/original.jpg?w=1200&h=630"
+  },
+  {
+    "id": "1mjae8jcn",
+    "url": "https://www.sbbit.jp/article/cont1/176944",
+    "title": "OpenAI「エンタープライズAIの現状2025」をレポート、ChatGPT Enterpriseを世界で100万社超が利用",
+    "description": "OpenAIが最新の「エンタープライズAIの現状 2025（The State of Enterprise AI 2025）」のレポートを公開し、ChatGPT Enterpriseを含むAIの企業導入が世界で急拡大していることを示した。企業向けAIの採用が過去1年間で加速し、導入企業は100万社を超え、活用者は平均して1日40～60分の業務時間を節約しているという調査結果が示されている。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2025-12-27",
+    "imageUrl": "https://www.sbbit.jp/article/image/176944/OGP_bit202512121655574753.jpg"
+  },
+  {
     "id": "ulbxveca4",
     "url": "https://agentskills.io/home",
     "title": "Overview - Agent Skills",
