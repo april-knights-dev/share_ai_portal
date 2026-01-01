@@ -1,5 +1,57 @@
 [
   {
+    "id": "ym5jplq4a",
+    "url": "https://www.arxiv.org/abs/2512.08296",
+    "title": "Towards a Science of Scaling Agent Systems",
+    "description": "Agents, language model-based systems that are capable of reasoning, planning, and acting are becoming the dominant paradigm for real-world AI applications. Despite this widespread adoption, the principles that determine their performance remain underexplored. We address this by deriving quantitative scaling principles for agent systems. We first formalize a definition for agentic evaluation and characterize scaling laws as the interplay between agent quantity, coordination structure, model capability, and task properties. We evaluate this across four benchmarks: Finance-Agent, BrowseComp-Plus, PlanCraft, and Workbench. With five canonical agent architectures (Single-Agent and four Multi-Agent Systems: Independent, Centralized, Decentralized, Hybrid), instantiated across three LLM families, we perform a controlled evaluation spanning 180 configurations. We derive a predictive model using coordination metrics, that achieves cross-validated R^2=0.524, enabling prediction on unseen task domains. We identify three effects: (1) a tool-coordination trade-off: under fixed computational budgets, tool-heavy tasks suffer disproportionately from multi-agent overhead. (2) a capability saturation: coordination yields diminishing or negative returns once single-agent baselines exceed ~45%. (3) topology-dependent error amplification: independent agents amplify errors 17.2x, while centralized coordination contains this to 4.4x. Centralized coordination improves performance by 80.8% on parallelizable tasks, while decentralized coordination excels on web navigation (+9.2% vs. +0.2%). Yet for sequential reasoning tasks, every multi-agent variants degraded performance by 39-70%. The framework predicts the optimal coordination strategy for 87% of held-out configurations. Out-of-sample validation on GPT-5.2, achieves MAE=0.071 and confirms four of five scaling principles generalize to unseen frontier models.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-31",
+    "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+  },
+  {
+    "id": "3znceugon",
+    "url": "https://kpmg.com/jp/ja/home/insights/2025/10/ceo-outlook-2025.html",
+    "title": "KPMGグローバルCEO調査2025",
+    "description": "KPMGは、世界の経営者の将来見通しや重要施策等を調査した、第11回目となる「KPMGグローバルCEO調査2025」を発表しました。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-31",
+    "imageUrl": "https://assets.kpmg.com/is/image/kpmg/jp-ceo-outlook-2025-prop:cq5dam.web.1200.600"
+  },
+  {
+    "id": "20g5a0jym",
+    "url": "https://www.yomiuri.co.jp/economy/20251220-GYT1T00281/",
+    "title": "官民で国産ＡＩ開発、ソフトバンクなど出資で新会社…世界潮流の「１兆パラメーター」目指す",
+    "description": "【読売新聞】　官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリード",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-31",
+    "imageUrl": "https://www.yomiuri.co.jp/media/2025/12/20251220-GYT1I00282-1.jpg?type=ogp"
+  },
+  {
+    "id": "2bm2f6bz8",
+    "url": "https://www.nikkei.com/article/DGXZQOUA225CF0S5A221C2000000/",
+    "title": "AI開発強化へ国主導、政府が初の基本計画を決定　海外展開巻き返し - 日本経済新聞",
+    "description": "政府は23日、人工知能（AI）の開発や活用の方向性を示す「AI基本計画」を閣議決定した。日本の強みを生かしたAIの開発や研究インフラの整備に注力する。医療や介護、金融など人手不足が顕著な分野への導入を支援する。産業用ロボットなど日本が得意とする領域で海外展開を巻き返す。計画は日本の強みである質の高いデータや高品質な通信環境をいかした「AIイノベーションで反転攻勢に出る」と明記した。例えば日本の",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2025-12-31",
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2397563023122025000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&fp-x=0.88&fp-y=0.17&h=630&w=1200&s=b763e72038bba32c51f7b7aa52e5a8e2"
+  },
+  {
     "id": "lzzoyd5di",
     "url": "https://www.arxiv.org/abs/2512.08296",
     "title": "Towards a Science of Scaling Agent Systems",
