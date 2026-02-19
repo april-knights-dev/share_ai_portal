@@ -1,5 +1,33 @@
 [
   {
+    "id": "deilu9wns",
+    "url": "https://docs.github.com/ja/copilot/reference/ai-models/supported-models",
+    "title": "GitHub Copilot でサポートされている AI モデル - GitHub ドキュメント",
+    "description": "GitHub Copilot でサポートされている AI モデルについて説明します。",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-02-18",
+    "imageUrl": "https://docs.github.com/assets/cb-345/images/social-cards/copilot.png"
+  },
+  {
+    "id": "bn654bwhi",
+    "url": "https://news.ycombinator.com/item?id=47050488",
+    "title": "Claude Sonnet 4.6 | Hacker News",
+    "description": "No description available.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-02-18",
+    "imageUrl": "y18.svg"
+  },
+  {
     "id": "1hkdvf520",
     "url": "https://docs.github.com/ja/copilot/reference/ai-models/supported-models",
     "title": "GitHub Copilot でサポートされている AI モデル - GitHub ドキュメント",
