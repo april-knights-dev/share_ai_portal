@@ -1,5 +1,18 @@
 [
   {
+    "id": "wzj96hz11",
+    "url": "https://note.com/ochyai/n/nbe6da995ffac?sub_rt=share_b|https://note.com/ochyai/n/nbe6da995ffac?sub_rt=share_b",
+    "title": "クロードコードにクロードコード作ってって言って寝たら，朝起きたらクロードコードが出来てたんだ…｜落合陽一",
+    "description": "落合陽一塾の今月のオフ会でクロードコードの使い方とか遊び方をやってたんだけど，課金ユーザーしか使えない機能っていうのはワークショップには難があるなぁと思っていた．それと研究室のclaude apiの請求が高すぎたこともあり，大したことないタスクにはローカルLLMでループを回し続ける方法ないかなと思って最初のリリースを作った．claudecodeのapiをapiでなくollamaにルーティングするときのメッセージやツールを工夫したちょっとしたユーティリティだった．      しかしclaudecodeはanthropicのものなのでなんとなく違和感があったのと，昨日ザリガニ事件🦞があり ",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-24",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/253910872/rectangle_large_type_2_9ba40f7a4f3098dde3b70459ca31167f.png?fit=bounds&quality=85&width=1280"
+  },
+  {
     "id": "yv3k9s8u4",
     "url": "https://note.com/ochyai/n/nbe6da995ffac?sub_rt=share_b|https://note.com/ochyai/n/nbe6da995ffac?sub_rt=share_b",
     "title": "クロードコードにクロードコード作ってって言って寝たら，朝起きたらクロードコードが出来てたんだ…｜落合陽一",
