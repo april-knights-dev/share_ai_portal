@@ -1,5 +1,99 @@
 [
   {
+    "id": "wdtdwara9",
+    "url": "https://github.com/dandavison/delta/",
+    "title": "GitHub - dandavison/delta: A syntax-highlighting pager for git, diff, grep, and blame output",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output - dandavison/delta",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://opengraph.githubassets.com/bea6eaf1beff6840bb563f0c65d70dfede59e053d4befcfcb34121925cafa852/dandavison/delta"
+  },
+  {
+    "id": "wr91tcikx",
+    "url": "https://news.ycombinator.com/item?id=47169518",
+    "title": "Show HN: Deff – Side-by-side Git diff review in your terminal | Hacker News",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "y18.svg"
+  },
+  {
+    "id": "ejbee8b4t",
+    "url": "https://news.ycombinator.com/item?id=47173121",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War | Hacker News",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "y18.svg"
+  },
+  {
+    "id": "vphvoe6kg",
+    "url": "https://speakerdeck.com/sugino/nazeaihazu-zhi-wosu-kusinainoka-ling-he-nofu-fen-ke",
+    "title": "なぜAIは組織を速くしないのか 令和の腑分け",
+    "description": "2026年2月26日「開発生産性のその先へ、AI生産性について語りたい」発表資料\nhttps://forkwell.connpass.com/event/384640/",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://files.speakerdeck.com/presentations/ae1c7c32eb454bc2b3cf199559df922e/slide_0.jpg?38526277"
+  },
+  {
+    "id": "7z12wpufz",
+    "url": "https://officeforest.org/wp/geminiアプリにnano-banana-2とサイドパネルに会話履歴機能登場/",
+    "title": "GeminiアプリにNano Banana 2とサイドパネルに会話履歴機能登場 | 🌴 officeの杜 🥥",
+    "description": "2026年2月26日、噂されていたGeminiアプリに対して「Nano Banana 2」が登場しました。これまでもあったNano Bananaの後継になるバージョンになります。よって、これはFlashベースの機能となります。また、同日にG",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://officeforest.org/wp/wp-content/uploads/2025/07/geminiicon_transparent.webp"
+  },
+  {
+    "id": "v7ffjtucu",
+    "url": "https://note.com/meru_ra/n/n7b3cbcf1d934?magazine_key=m9accace8769d|https://note.com/meru_ra/n/n7b3cbcf1d934?magazine_key=m9accace8769d",
+    "title": "Figma デザインから実装まで - Claude Code Skills によるUI自動生成の精度を劇的に上げる方法｜赤木里騎",
+    "description": "本記事は株式会社BOOST Tech Blogの記事です。https://note.com/boost_jp/m/m9accace8769d  はじめに  AI に UI 実装を依頼したとき、こんなことが起きていませんか？  Figma のデザインを指定して AI に実装を頼むと一瞬で画面が出来上がりますが、確認すると想定と全然違う UI が出来上がっていて、色や余白がおかしいことが多々あります。結局、全部書き直したり細かく修正指示したりしているうちに数時間かかってしまい、AI に丸投げできるはずだったのに手戻りばかりで時間がかかった経験をした人も多いのではないでしょうか。  AI コ",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-02-26",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/254538583/rectangle_large_type_2_9995c827024f6fbd593c27ff965aba9a.png?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "tpm7xk1bt",
+    "url": "https://share.google/xW8UWqgIBL0RrV4wF|https://share.google/xW8UWqgIBL0RrV4wF",
+    "title": "\n      share.google\n    ",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-26",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+  },
+  {
     "id": "t9q8qzjep",
     "url": "https://note.com/meru_ra/n/n7b3cbcf1d934?magazine_key=m9accace8769d|https://note.com/meru_ra/n/n7b3cbcf1d934?magazine_key=m9accace8769d",
     "title": "Figma デザインから実装まで - Claude Code Skills によるUI自動生成の精度を劇的に上げる方法｜赤木里騎",
