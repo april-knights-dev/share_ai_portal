@@ -1,5 +1,72 @@
 [
   {
+    "id": "gd1m9z2n3",
+    "url": "https://github.com/dandavison/delta/",
+    "title": "GitHub - dandavison/delta: A syntax-highlighting pager for git, diff, grep, and blame output",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output - dandavison/delta",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://opengraph.githubassets.com/fccb265632f8640bcd50e4fd337b372d650de401a3eb2f9920cc2043a65a7ac5/dandavison/delta"
+  },
+  {
+    "id": "eh4jw09ml",
+    "url": "https://news.ycombinator.com/item?id=47169518",
+    "title": "Show HN: Deff – Side-by-side Git diff review in your terminal | Hacker News",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "y18.svg"
+  },
+  {
+    "id": "6eqap7x9s",
+    "url": "https://news.ycombinator.com/item?id=47173121",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War | Hacker News",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "y18.svg"
+  },
+  {
+    "id": "pcmlxdm0l",
+    "url": "https://speakerdeck.com/sugino/nazeaihazu-zhi-wosu-kusinainoka-ling-he-nofu-fen-ke",
+    "title": "なぜAIは組織を速くしないのか 令和の腑分け",
+    "description": "2026年2月26日「開発生産性のその先へ、AI生産性について語りたい」発表資料\nhttps://forkwell.connpass.com/event/384640/",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://files.speakerdeck.com/presentations/ae1c7c32eb454bc2b3cf199559df922e/slide_0.jpg?38526277"
+  },
+  {
+    "id": "p9u2yrk8k",
+    "url": "https://officeforest.org/wp/geminiアプリにnano-banana-2とサイドパネルに会話履歴機能登場/",
+    "title": "GeminiアプリにNano Banana 2とサイドパネルに会話履歴機能登場 | 🌴 officeの杜 🥥",
+    "description": "2026年2月26日、噂されていたGeminiアプリに対して「Nano Banana 2」が登場しました。これまでもあったNano Bananaの後継になるバージョンになります。よって、これはFlashベースの機能となります。また、同日にG",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-02-27",
+    "imageUrl": "https://officeforest.org/wp/wp-content/uploads/2025/07/geminiicon_transparent.webp"
+  },
+  {
     "id": "tcm1xr9qo",
     "url": "https://github.com/dandavison/delta/",
     "title": "GitHub - dandavison/delta: A syntax-highlighting pager for git, diff, grep, and blame output",
