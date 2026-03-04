@@ -1,5 +1,46 @@
 [
   {
+    "id": "hln0dw5xn",
+    "url": "https://note.com/jujunjun110/n/n0903bad8b2f2",
+    "title": "ClaudeCode無限ループ(ralph-loop)による完全自律開発ワークフローで開発者のウェルビーイングを取り戻す！｜Jun Ito",
+    "description": "こんにちは。チームみらい 永田町エンジニアチームの伊藤（エディ）です。  先日投稿した記事では、Claude Code Webを8並列で回すためのハーネスエンジニアリングについて書きましたが、そこから試行錯誤を進め、人間が細かく指示しなくても、1コマンドのロングセッションで大量の機能を作り切る開発手法（いわゆる ralph loop&nbsp;）を自分でも研究してみました。  現時点で、15分程度でドキュメントを仕上げてAIに任せると、3~4時間のロングセッションで、数千〜1万行程度の、比較的品質の高い実装が安定して完成するような状態になったので、工夫を紹介してみようと思います。  思",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-04",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/255001597/rectangle_large_type_2_4db2dfaacc197cb74328e0f78e1dd0ec.png?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "k2ebh1guu",
+    "url": "https://blog.tinect.jp/?p=90819",
+    "title": "「AIにもちゃんと聞けない人」に足りない視点の話",
+    "description": "どうもこんにちは、しんざきです。段々あったかくなってきましたね。毎年この時期になると原因不明の鼻風邪にかかるんですが、遅めのインフルエンザでしょうか。 この記事で書きたいのは、大体以下のようなことです。   ・…",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-04",
+    "imageUrl": "https://blog.tinect.jp/wp-content/uploads/2026/03/edwin-andrade-4V1dC_eoCwg-unsplash.jpg"
+  },
+  {
+    "id": "6i6zi1uj4",
+    "url": "https://qiita.com/yamapiiii/items/cc2450f410b64329d275",
+    "title": "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話 - Qiita",
+    "description": "はじめに 自分の思考・知識・アイデアを全て外部に書き出し、検索可能にする——いわゆる「第二の脳（Second Brain）」。 Notion、Obsidianで実践している人は多いと思います。私はこれをGitリポジトリ + Claude Codeで構築しました。 最初は「...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-04",
+    "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMzU5ODkwJTJGZjA0ZTUwZWJmNDk0ZmM0NmI5YWRiMTRmMWQ4MzFlYzIwYjgxNTI2NyUyRmxhcmdlLnBuZyUzRjE3NDU5NzU4MTc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWYzOWUwY2YyNWU5YTMxNGEwMjgzZmQ4N2UyZjhiNzIw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5OTY1OGZhNTJmYmI5ZmY4NjMwMDUxNGM2YTdmOGY2ZGUxZDQ1ZDFiJTJGb3JpZ2luYWwuanBnJTNGMTc2Njk4OTYyMD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00ODRlOGI1ODYxNTg1Njg0YjZhZWJiZjI2NWY5ZWVhZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dc2c50be101e31d93aed5f432031f3113?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFMyU4MCU4QyVFNyVBQyVBQyVFNCVCQSU4QyVFMyU4MSVBRSVFOCU4NCVCMyVFMyU4MCU4RCVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFMyU4MCU4MSVFNiU5QyU4MCVFNyVCNSU4MiVFNyU5QSU4NCVFMyU4MSVBQkFJJUUzJTgxJThDJUU4JTg3JUFBJUU1JUJFJThCJUU5JTgxJThCJUU3JTk0JUE4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmY0MmZhZjNhMjQ0M2ZkNDUwNzFmNmUyNTA2MmNjMmU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hcGlpaWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zZGE0NmVkZTA5M2ExOWIxMTlmMDQwOWExNTMwMzM2NA&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44OK44OP44OI&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=d7126ae4ef5378327999edcd43f0b636"
+  },
+  {
     "id": "avkfklx6t",
     "url": "https://github.com/dandavison/delta/",
     "title": "GitHub - dandavison/delta: A syntax-highlighting pager for git, diff, grep, and blame output",
