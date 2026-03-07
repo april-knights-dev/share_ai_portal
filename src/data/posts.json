@@ -1,5 +1,72 @@
 [
   {
+    "id": "so7e1ba27",
+    "url": "https://claude.com/blog/cowork-plugins-across-enterprise",
+    "title": "Cowork and plugins for teams across the enterprise | Claude",
+    "description": "We're introducing Cowork and plugin updates that let enterprises customize Claude to how you work. Plugins turn Claude into specialized agents for every role and department. Now, you can build private marketplaces to distribute them across your organization.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-07",
+    "imageUrl": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/697cf645197a08ec7b83ea6a_og_cowork-plugins.jpg"
+  },
+  {
+    "id": "g91ckcmbm",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/",
+    "title": "Copilot Tasks: From Answers to Actions  | Microsoft Copilot Blog",
+    "description": "Conversational chatbots were the first chapter of AI. Today is the beginning of the second. We are excited to introduce Copilot Tasks — AI that doesn’t just talk to you, but works for you.   This is a moment we’ve been building toward since we first launched Copilot: the shift from chat to actions. From answers, thoughts, and drafts to completed tasks. From just talking to getting things done.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-07",
+    "imageUrl": "https://www.microsoft.com/en-us/microsoft-copilot/blog/wp-content/uploads/2026/02/Tasks_heroimage-16x9-1.png"
+  },
+  {
+    "id": "ju4owmjxn",
+    "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+    "title": "Google adds a way to create automated workflows to Opal | TechCrunch",
+    "description": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-07",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?resize=1200,677"
+  },
+  {
+    "id": "5ptjtkne3",
+    "url": "https://fortune.com/2026/02/23/openai-partners-with-mckinsey-bcg-accenture-and-capgemini-to-push-its-frontier-ai-agent-platform/",
+    "title": "OpenAI partners with McKinsey, BCG, Accenture, and Capgemini to push its Frontier AI agent platform | Fortune",
+    "description": "The partnerships heap further pressure on SaaS vendors such as Salesforce, Microsoft, Workday, and ServiceNow.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-07",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261861349.jpg?resize=1200,600"
+  },
+  {
+    "id": "9ye5g8lxc",
+    "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+    "title": "Account Restricted Without WARNING– Google AI Ultra / OAuth via OpenClaw",
+    "description": "I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-07",
+    "imageUrl": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png"
+  },
+  {
     "id": "5o98oja59",
     "url": "https://claude.com/blog/cowork-plugins-across-enterprise",
     "title": "Cowork and plugins for teams across the enterprise | Claude",
