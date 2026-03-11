@@ -1,5 +1,164 @@
 [
   {
+    "id": "8ebr1y883",
+    "url": "https://share.google/YnXlufZj72wROUh0e|https://share.google/YnXlufZj72wROUh0e",
+    "title": "\n      share.google\n    ",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "nkvfu7dhp",
+    "url": "https://share.google/0u8GWDjkC3HwQpiih|https://share.google/0u8GWDjkC3HwQpiih",
+    "title": "\n      share.google\n    ",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "tre9yb69c",
+    "url": "https://cursor.com/ja/blog/automations",
+    "title": "自動実行エージェントを構築する · Cursor",
+    "description": "Cursor で、あなたが定義したトリガーと指示に基づいて自動実行される Automations を利用できるようになりました。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/opengraph-automations-final.png"
+  },
+  {
+    "id": "suj977yd6",
+    "url": "https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-windows-195345429.html",
+    "title": "OpenAI brings its Codex coding app to Windows",
+    "description": "The software allows developers to task multiple AI agents to work on a single task.",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6MWuSnLuIywWtjbBjjSR1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/04%402x.png"
+  },
+  {
+    "id": "le4mmgn0e",
+    "url": "https://aistudio.google.com/",
+    "title": "Google AI Studio",
+    "description": "The fastest path from prompt to production with Gemini",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  },
+  {
+    "id": "28czqixml",
+    "url": "https://www.pcworld.com/article/3079523",
+    "title": "Google makes Gmail, Drive, and Docs 'agent-ready' for OpenClaw",
+    "description": "A new command-line interface for Google Workspace greases the wheels for personal AI assistants like OpenClaw to tap directly into Workspace documents.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/03/Google-Drive-on-phone-in-hand-and-on-laptop-on-desk.jpg?quality=50&strip=all&w=1024"
+  },
+  {
+    "id": "re0echg9z",
+    "url": "https://zenn.dev/cureapp/articles/65b9a99d22ce2b",
+    "title": "CLAUDE.mdに本当は何を書くべきなのか",
+    "description": "No description available.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--p8Uhvh6Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLAUDE.md%25E3%2581%25AB%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25B9%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:7tsuno%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1MThkMWZlMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CureApp%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NlNDY1N2YxMjAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+  },
+  {
+    "id": "o82xtm1m3",
+    "url": "https://www.techno-edge.net/article/2026/03/02/4891.html",
+    "title": "Whisperを超える精度のリアルタイム文字起こしローカルAI「Moonshine Voice」、日本語にも対応（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "description": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、ローカルで起動できるリアルタイム文字起こしAI「Moonshine Voice」を取り上げます。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://www.techno-edge.net/imgs/ogp_f/29733.png"
+  },
+  {
+    "id": "r69ub286t",
+    "url": "https://www.itmedia.co.jp/business/articles/2603/02/news029.html",
+    "title": "広告制作業に“倒産ラッシュ”　7割が販売不振、AI対応遅れが命取りに",
+    "description": "広告制作業の倒産が急増し、過去最多を更新する可能性が浮上した。背景には販売不振に加え、デジタル・AI対応の遅れがある。業界は再編か淘汰か、岐路に立たされている。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://image.itmedia.co.jp/business/articles/2603/02/cover_news029.jpg"
+  },
+  {
+    "id": "ql2e5c45l",
+    "url": "https://type.jp/et/feature/30605/",
+    "title": "南場智子「ますます“速さ”が命題に」DeNA AI Day2026全文書き起こし - エンジニアtype | 転職type",
+    "description": "DeNA南場智子氏による2026年3月の最新講演。生産性20倍の裏にある「中途半端な専門性の淘汰」と無慈悲な現実。新概念「エンバイロメント・エンジニアリング」やフィジカルAIでの日本の勝機、AIに仕事を発注される時代の“人間の尊厳”まで。激変する2026年の生存戦略を語り尽くした全文公開",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2026/03/ogp-dena-ai-day-2026-tomoko-nanba-keynote.jpg"
+  },
+  {
+    "id": "antda9z4s",
+    "url": "https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/",
+    "title": "Claude Code / Codex ユーザーのための誰でもわかるHarness Engineeringベストプラクティス",
+    "description": "Coding Agent時代のハーネスエンジニアリングのベストプラクティスを、リポジトリ衛生・決定論的ツール・E2Eテスト戦略・プラットフォーム選定まで網羅的に解説します",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://nyosegawa.github.io/og/harness-engineering-best-practices-2026.png"
+  },
+  {
+    "id": "vcf7zrtnf",
+    "url": "https://type.jp/et/feature/30605/",
+    "title": "南場智子「ますます“速さ”が命題に」DeNA AI Day2026全文書き起こし - エンジニアtype | 転職type",
+    "description": "DeNA南場智子氏による2026年3月の最新講演。生産性20倍の裏にある「中途半端な専門性の淘汰」と無慈悲な現実。新概念「エンバイロメント・エンジニアリング」やフィジカルAIでの日本の勝機、AIに仕事を発注される時代の“人間の尊厳”まで。激変する2026年の生存戦略を語り尽くした全文公開",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-10",
+    "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2026/03/ogp-dena-ai-day-2026-tomoko-nanba-keynote.jpg"
+  },
+  {
     "id": "ifbnh1559",
     "url": "https://share.google/YnXlufZj72wROUh0e|https://share.google/YnXlufZj72wROUh0e",
     "title": "\n      share.google\n    ",
