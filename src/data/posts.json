@@ -1,5 +1,18 @@
 [
   {
+    "id": "t4gx24ynl",
+    "url": "https://nyosegawa.github.io/posts/not-building-in-agent-era/",
+    "title": "Coding Agent時代に、開発速度を遅くする",
+    "description": "Coding Agentで何でも作れるようになった今、作らない判断がかつてないほど難しくなっている。個人の楽しさと組織の規律、実行の容易さと取捨選択の苦しさについて考える。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-13",
+    "imageUrl": "https://nyosegawa.github.io/og/not-building-in-agent-era.png"
+  },
+  {
     "id": "x7mvvfp4a",
     "url": "https://aprilknights.slack.com/archives/C04SFEJ99UP/p1773106892128449?thread_ts=1773106833.421719&amp;cid=C04SFEJ99UP",
     "title": "Slack",
