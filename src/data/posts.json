@@ -1,5 +1,165 @@
 [
   {
+    "id": "9ruf5642k",
+    "url": "https://officeforest.org/wp/%e3%80%90%e3%81%be%e3%82%8b%e3%81%a7%e6%98%a0%e7%94%bb%e3%80%91%e3%83%9c%e3%82%a4%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%b3%e3%82%84%e5%a3%b0%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8bqwen3-tts/",
+    "title": "【まるで映画】ボイスクローンや声を作成するQwen3 TTSの活用術 | 🌴 officeの杜 🥥",
+    "description": "いよいよAI界隈では次のステージに入ったようです。さながらミッション・インポッシブルの世界の再現。数行の音声データを元にボイス音声を学習し、対象者の音声を元にして別の文章を読み上げさせるというAIが登場しています。それが、Qwen3 TTS",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://officeforest.org/wp/wp-content/uploads/2026/03/qwen3tts.webp"
+  },
+  {
+    "id": "csjyvu97j",
+    "url": "https://nyosegawa.github.io/posts/japanese-handwriting-ocr-comparison/",
+    "title": "日本語の手書きメモを書き起こせるOCRを探すために19モデルを片っ端から試した話",
+    "description": "手書きメモの電子化がつらいので、Claude, Gemini, GPTからHunyuanOCR, GLM-OCRまで19モデルを3指標で比較しました。結論: Gemini 3.1 Proが最強です",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://nyosegawa.github.io/og/japanese-handwriting-ocr-comparison.png"
+  },
+  {
+    "id": "azhtkim7r",
+    "url": "https://note.com/kazobara/n/n4c65810ef525",
+    "title": "乱立するAIツール、ぶっちゃけ今どれ使ってる？── 2026年3月・最前線のAIツール活用術と「マルチエージェント時代」の幕開け｜尾原 和啓 (アフターデジタル/プロセスエコノミーなど著述：おばら かずひろ）",
+    "description": "Deep AI News｜尾原和啓 × 池田朋弘（イケとも）の文字文字起こしです  いけともさんと尾原 Podcastやってます。  最新AI実践につよい いけとも さんと技術史と戦略オタクの尾原のカケザンが楽しく毎週水曜朝（できたら）更新でやってます。  AI依頼で超多忙な いけともさんと 多動な尾原なのでお互い外出先からの集録多く、どうしても音質犠牲にしがちなんですが、今週は特に変で、記事化で読んで戴ければ。情報量はPodcastの方が多いので、最初2分とばせば割と聞けます。   はじめに：「ヤバい」が止まらない、AIツール戦国時代  「毎日使ってるツール変わってます」  これは決",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/258190089/rectangle_large_type_2_8720ac83b5720c4736e9bc06518b59d4.jpeg?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "scg8lfjh6",
+    "url": "https://japan.cnet.com/article/35245089/",
+    "title": "ネットの流行語「ギュられる」とは　AI失業を覚悟するSNS民たち",
+    "description": "「ギュられる」は、AIの進展によって、自分の仕事やスキル、価値が奪われたり、通用しなくなったりすることを指すネット上の言い回しだ。語源は「シンギュラリティ」にあるとされ、「シンギュラリティ」を「ギュ」に縮めた表現とみられる。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://japan.cnet.com/storage/2026/03/16/7113ff8dc45008fc463cfa716f63fcf7/8_1280x960.jpg"
+  },
+  {
+    "id": "hxvsp6ucd",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news034.html",
+    "title": "DeNA、「Devin」を全社2000人超に導入　「作業効率6倍」でレガシーコードを刷新",
+    "description": "DeNAは自律型AI「Devin」を全社導入し、従業員約2000人が利用する基盤を構築した。開発部門だけでなく営業部門などでも業務効率化を達成したという。",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://image.itmedia.co.jp/enterprise/articles/2603/16/cover_news034.jpg"
+  },
+  {
+    "id": "ugq1ljcej",
+    "url": "https://claude.com/blog/code-review",
+    "title": "Code Review for Claude Code | Claude",
+    "description": "Claude Code now dispatches a team of agents on every PR to catch bugs that skims miss. Available in research preview for Team and Enterprise.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69ab5ab658058fa295ce9e6b_og_code-review.jpg"
+  },
+  {
+    "id": "owy13vk18",
+    "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "title": "OpenAI acquires Promptfoo to secure its AI agents | TechCrunch",
+    "description": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
+  },
+  {
+    "id": "wxq6pprao",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
+    "title": "New ways to create faster with Gemini in Docs, Sheets, Slides and Drive",
+    "description": "These new Gemini features are coming to Google Docs, Sheets, Slides and Drive to help you get more done.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_-_keyword.width-1300.png"
+  },
+  {
+    "id": "pud3ivgts",
+    "url": "https://replit.com/agent4",
+    "title": "Agent 4",
+    "description": "Replit's fastest, most versatile Agent to date is here. Agent 4 is built around four pillars: Design Freely, Build Together, Ship Anything, and Move Faster.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://cdn.sanity.io/images/bj34pdbp/development/03b5b9692d8d75f78ec1c92620c58237ae8a59e0-1200x630.png?q=100&fit=crop&auto=format"
+  },
+  {
+    "id": "qx88bqhne",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/09/news106.html",
+    "title": "DeNAが“AI社員”を育成中　AIエージェント「OpenClaw」活用　南場会長「毎朝けんか」",
+    "description": "DeNAの南場智子代表取締役会長は、自律的にタスクをこなす独自のAIエージェントを開発中と明かした。同社のIT本部がオープンソースのAIエージェント開発基盤「OpenClaw」で作成しているもので、名前は「Lemonクン」。秘書やチームの一員としての活用を目指す。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2603/09/cover_news106.jpg"
+  },
+  {
+    "id": "zj4epxkyd",
+    "url": "https://note.com/tsukky739/n/n40f4ec2b506a",
+    "title": "スタートアップのマーケターがClaude Codeを使い倒したら、事業が4ヶ月で300%成長した話｜tsukky",
+    "description": "このnoteに書いたこと✍️   ①毎日の定型作業が、会話1回で完了した話 ②戦略策定もデータ分析も、AIに委託した話 ③画像も動画も、マーケター1人で外注ゼロで作れるようになった話 ④AIを「自分専用」に育てる設定ファイルの中身     はじめに  スマートバンクで、「個人事業主向けの金融サービス」を新規事業として立ち上げ、マーケティングを担当しているtsukkyです。 昨年11月に、サイバーエージェントからスマートバンクに転職しました。 \n 入社後、ありがたいことに担当事業の主要KPIが直近4ヶ月で300%成長しました。  そこまで事業を伸ばすことができているのも、AIの力なしには",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/258550027/rectangle_large_type_2_3e60411247b439820ea0dc971b012765.png?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "tbjb0t4h6",
+    "url": "https://www.nikkei.com/article/DGXZQOUA119F50R10C26A3000000/",
+    "title": "AIエージェントやロボAI、「リスク抑制へ人間介在を」　政府指針案 - 日本経済新聞",
+    "description": "政府は12日、人工知能（AI）について企業などが守るべき事項を盛った指針案を示した。自律的に動く「AIエージェント」やロボットを制御する「フィジカルAI」のリスク抑制策として、人間の判断が介在する仕組みの構築をサービス提供企業に求めた。総務省と経済産業省は「AI事業者ガイドライン」を2024年にまとめ、毎年更新している。12日の有識者会議は更新案を大筋で了承した。3月末にも正式に公開する。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-17",
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2745334012032026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&h=630&w=1200&s=fa3692858f46b605ac105970966208ef"
+  },
+  {
     "id": "90k6mspdq",
     "url": "https://officeforest.org/wp/%e3%80%90%e3%81%be%e3%82%8b%e3%81%a7%e6%98%a0%e7%94%bb%e3%80%91%e3%83%9c%e3%82%a4%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%b3%e3%82%84%e5%a3%b0%e3%82%92%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8bqwen3-tts/",
     "title": "【まるで映画】ボイスクローンや声を作成するQwen3 TTSの活用術 | 🌴 officeの杜 🥥",
