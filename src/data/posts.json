@@ -1,5 +1,47 @@
 [
   {
+    "id": "u6s7qjhhz",
+    "url": "https://github.com/shngmsw/claude-code-starter?tab=readme-ov-file",
+    "title": "GitHub - shngmsw/claude-code-starter: Claude Code スターターキット - Hooks, カスタムコマンド, Ralph Loop, タスクダイアリー",
+    "description": "Claude Code スターターキット - Hooks, カスタムコマンド, Ralph Loop, タスクダイアリー - shngmsw/claude-code-starter",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-22",
+    "imageUrl": "https://opengraph.githubassets.com/a824be4b3ef38a094ae514e0a6f4a9bb1f13146325b87ddd856d5dccccf09a03/shngmsw/claude-code-starter"
+  },
+  {
+    "id": "nq3mu75e5",
+    "url": "https://note.com/suh_sunaneko/n/n7b2108779bf6",
+    "title": "非エンジニア向け、ClaudeCodeで業務Skillsを作る方法｜すぅ | AI駆動PM",
+    "description": "この記事は 期間限定で全文無料で閲覧できます。   前回の記事「PMはスキルエンジニアリングを極めるべし」では、PMが今やるべきはモデル競争を追いかけることではなく、自分の業務をSKills化する力を磨くことだという話をしました。  今回はその続きで、「じゃあ実際にどうやってスキルを作るの？」という具体的な方法を解説していきます。エンジニアではない方でも作れるように、考え方から手順まで丁寧に書いていきます。  そもそもSkillsとは？  Skillsは、よくやる作業手順や知識をまとめた「スキルファイル群」を作っておくと、AIがそれを読み取って実行してくれる仕組みです。  \n\n\nAge",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-22",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/260352850/rectangle_large_type_2_db1f12df0461130967af1f32fe9f40d9.png?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "sqtt6ddhi",
+    "url": "https://note.com/insidemiku/n/nf5f8349fa6a6",
+    "title": "非エンジニア経営者がClaude Codeで業務を自動化したら、毎日3時間浮いた話｜みく｜得意を伸ばして幸せに暮らす",
+    "description": "はじめに  結論から言います。  私はエンジニアではありませんが、AIを使って自社のSES業務をほぼ自動化しました。  「エンジニアでもないのに？」と思うかもしれませんが、本当です。  私は20名規模の小さな会社を経営しています。事業の柱はSalesforce導入支援とSES（システムエンジニアリングサービス）。特にSES事業では、要員の登録、企業への提携依頼、案件情報の登録など、毎日コツコツ繰り返す手作業が大量にありました。  この記事では、私がClaude Code（AnthropicのAIコーディングツール）を使って、それらの業務をどう自動化したのかを紹介します。  「うちの業務",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-22",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/260363513/rectangle_large_type_2_94a943d5d4f669c780431f387547ac6a.png?fit=bounds&quality=85&width=1280"
+  },
+  {
     "id": "g4lbkesun",
     "url": "https://github.com/shngmsw/claude-code-starter?tab=readme-ov-file",
     "title": "GitHub - shngmsw/claude-code-starter: Claude Code スターターキット - Hooks, カスタムコマンド, Ralph Loop, タスクダイアリー",
