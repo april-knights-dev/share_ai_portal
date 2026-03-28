@@ -1,5 +1,99 @@
 [
   {
+    "id": "0dsoz89wi",
+    "url": "https://nyosegawa.com/posts/oshigoto-wanted/",
+    "title": "お仕事募集のお知らせ(2026年4月〜)",
+    "description": "2026年4月以降の業務委託でのお仕事を募集します",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://nyosegawa.com/og/oshigoto-wanted.jpg"
+  },
+  {
+    "id": "3zi1quyb2",
+    "url": "https://april-knights-dev.github.io/share_ai_portal/",
+    "title": "ai-portal",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "e9lz1zu26",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Claude",
+    "description": "Standard pricing now applies across the full 1M window for both models, with no long-context premium. Media limits expand to 600 images or PDF pages.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg"
+  },
+  {
+    "id": "tzrugxhnc",
+    "url": "https://code.claude.com/docs/en/scheduled-tasks",
+    "title": "Run prompts on a schedule - Claude Code Docs",
+    "description": "Use /loop and the cron scheduling tools to run prompts repeatedly, poll for status, or set one-time reminders within a Claude Code session.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAutomation%26appearance%3Dsystem%26title%3DRun%2Bprompts%2Bon%2Ba%2Bschedule%26description%3DUse%2B%252Floop%2Band%2Bthe%2Bcron%2Bscheduling%2Btools%2Bto%2Brun%2Bprompts%2Brepeatedly%252C%2Bpoll%2Bfor%2Bstatus%252C%2Bor%2Bset%2Bone-time%2Breminders%2Bwithin%2Ba%2BClaude%2BCode%2Bsession.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&w=1200&q=100"
+  },
+  {
+    "id": "psc8l49y1",
+    "url": "https://www.nvidia.com/ja-jp/gtc/",
+    "title": "NVIDIA GTC San Jose 2026",
+    "description": "GTC は、2026 年 3 月 16 日から 19 日まで開催されます。最新情報を希望の方はご登録ください。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/social-image/gtc26-og-session-catalog-1200x630.jpg"
+  },
+  {
+    "id": "9qjun3e33",
+    "url": "https://www.cnbctv18.com/technology/openai-to-launch-desktop-superapp-by-merging-chatgpt-codex-and-browser-ws-l-19872128.htm",
+    "title": "OpenAI to launch desktop 'superapp' by merging ChatGPT, Codex and browser - CNBC TV18",
+    "description": "OpenAI launches a desktop superapp uniting ChatGPT, an AI browser, and Codex. CEO Fidji Simo aims to streamline efforts and enhance productivity.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://images.cnbctv18.com/uploads/2024/07/openai-2024-07-0ae2109f5a5017df577853d0646db677.jpg?im=FitAndFill,width=500,height=300"
+  },
+  {
+    "id": "5vko8he6p",
+    "url": "https://mistral.ai/news/forge",
+    "title": "Introducing Forge | Mistral AI",
+    "description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-03-27",
+    "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+  },
+  {
     "id": "02m2o7130",
     "url": "https://nyosegawa.com/posts/oshigoto-wanted/",
     "title": "お仕事募集のお知らせ(2026年4月〜)",
