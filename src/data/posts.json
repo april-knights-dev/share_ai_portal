@@ -1,5 +1,114 @@
 [
   {
+    "id": "9bcxh8sed",
+    "url": "https://developers.gmo.jp/technology/81389/|https://developers.gmo.jp/technology/81389/",
+    "title": "ハーネスで縛れ、AIに任せろ ーAIエージェントの出力品質は“構造”で守る / 開発者向けブログ・イベント | GMO Developers",
+    "description": "AIコーディングエージェントによって、実装のスピードは確かに上がりました。設計し、試し、修正する。その試行回数を増やせることは、AI駆動開発の大きな価値です。一方で、コード品質のばらつきや設計の揺れといった課題も見えてきました。そこで私たちは、AIの出力品質を人の注意力ではなく、構造で支える仕組みとして「ハーネスエンジニアリング」を導入しました。本記事では、その実践内容を紹介します。",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://developers.gmo.jp/wp-content/uploads/2026/03/源柔ゴシック-1-1.png"
+  },
+  {
+    "id": "usfqn5den",
+    "url": "https://www.publickey1.jp/blog/26/google_ai_studiofirebaseantigravity.html",
+    "title": "「Google AI Studio」がFirebaseのバックエンドとAntigravityのコーディングエージェントを搭載、プロンプトだけで高度なフルスタックアプリケーションを生成可能に",
+    "description": "Googleは、Google AI Studioのバイブコーディング機能を強化し、 プロンプトで指示するだけで高度なフルスタックアプリケーションの開発が可能になったことを発表しました。 フル機能のマルチプレイヤーゲームのような高度なアプリケ...",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://www.publickey1.jp/2026/googleaistudionew260303.png"
+  },
+  {
+    "id": "rmkm2fdn5",
+    "url": "https://www.publickey1.jp/blog/26/aibrowser_use_cli_20chrome_devtools2.html",
+    "title": "AIエージェントがコマンドラインでブラウザを自動操作できる「Browser Use CLI 2.0」リリース。Chrome DevToolsへの接続などで操作速度が2倍に",
+    "description": "人間やAIエージェントがコマンドラインから指示することでWebブラウザを操作できるオープンソースのPythonライブラリ「Browser Use CLI 2.0」がリリースされました。 Browser Use CLI 2.0では、Chrom...",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://www.publickey1.jp/2026/browserusecli2001.png"
+  },
+  {
+    "id": "osbf9fpfp",
+    "url": "https://claude.com/blog/auto-mode",
+    "title": "Auto mode for Claude Code | Claude",
+    "description": "Auto mode lets Claude Code make permission decisions with built-in safeguards — fewer interruptions than default, less risk than skipping permissions.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69af8e31456ec24b2970ab57_og_auto-mode.jpg"
+  },
+  {
+    "id": "a5jdyqljg",
+    "url": "https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/",
+    "title": "Anthropic's Claude Can Now Take Over Your Computer to Do Tasks for You",
+    "description": "Anthropic brings Claude into the agentic, OpenClaw-like fold.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://www.cnet.com/a/img/resize/21b656db2c0fa4f51d261ec4d3ce7a3d3e703494/hub/2026/03/23/8e5ad5f8-b8d5-402f-9db7-7d6d49fd53c6/cowork-dispatch-blog-permissions.png?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "id": "85oq1iotp",
+    "url": "https://www.sbbit.jp/article/cont1/183030",
+    "title": "Googleがバイブデザインツール「Stitch」を公開、自然言語や手書きからUIを自動生成",
+    "description": "米Googleは2026年3月18日、自然言語や手書きスケッチから高精度のUIデザインを生成するAIツール「Stitch」のβ版を公開した。作り手の直感を形にする「バイブデザイン」の実現を目指し、マルチモーダルAI「Gemini」の能力を活用している。生成されたデザインはコード出力や外部ツールとの連携が可能であり、一定の制限下において基本無料で利用できる。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://www.sbbit.jp/article/image/183030/OGP_bit202603230545337662.jpg"
+  },
+  {
+    "id": "ch2q25kxz",
+    "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+    "title": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ | Fortune",
+    "description": "Anthropic said it was testing the new model, which it called a “step change” in performance, after accidental data leak reveals its existence",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600"
+  },
+  {
+    "id": "pcm5kano6",
+    "url": "https://edition.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+    "title": "Judge blocks Pentagon’s effort to ‘punish’ Anthropic by labeling it a supply chain risk | CNN Business",
+    "description": "A federal judge in California has indefinitely blocked the Pentagon’s effort to “punish” Anthropic by labeling it a supply chain risk and attempting to sever government ties with the AI company, ruling that those measures ran roughshod over its constitutional rights.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-03",
+    "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057633664886-1.jpg?c=16x9&q=w_800,c_fill"
+  },
+  {
     "id": "i17n8udfj",
     "url": "https://developers.gmo.jp/technology/81389/|https://developers.gmo.jp/technology/81389/",
     "title": "ハーネスで縛れ、AIに任せろ ーAIエージェントの出力品質は“構造”で守る / 開発者向けブログ・イベント | GMO Developers",
