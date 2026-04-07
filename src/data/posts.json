@@ -1,5 +1,113 @@
 [
   {
+    "id": "xigxcijq4",
+    "url": "https://smhn.info/202604-mlit-geospatial-mcp-server",
+    "title": "  【朗報】国土交通省、MCPサーバー公開 - すまほん!!",
+    "description": "「地価を教えて」で国のデータが返ってくる？国土交通省は2026年2月26日、AIを活用して地理空間情報を自然言語で取得できる「地理空間MCP Server - MLIT Geospatial MCP Server -」（α版）を公開すると発表しました。コードはGitHubで公開し...",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://smhn.info/wp-content/uploads/2026/02/2026-02-27-roiko-mcp-chika-smartphone-1k.webp"
+  },
+  {
+    "id": "2xvutix8b",
+    "url": "https://dev.classmethod.jp/articles/cowork-morning-sales-automation/",
+    "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】　Cowork活用1　Coworkで業務時間外の情報整理を自動化した話   | DevelopersIO",
+    "description": "非エンジニアのためのClaude/ClaudeCode",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://images.ctfassets.net/ct0aopd36mqt/1dD7b8HkT2sbiJzUIewMTD/e5cdc6f33c4fdd9d798f11a4564612ff/eyecatch_developersio_darktone_1200x630.jpg"
+  },
+  {
+    "id": "gl5fzgdfe",
+    "url": "https://findy-code.io/media/articles/aisaji-miyatti",
+    "title": "PM業務をコマンド化してAIに回す──コンテキスト設計とHuman-in-the-Loop - Findy Media",
+    "description": "今回の「AIのさじ加減」は、株式会社エクスプラザでCPOを務めるみやっち（@miyatti）さん。PM業務をAIで型化し、AIPMやaipoを通じて見えてきたのは、AIに任せる部分と人間が判断すべき部分の境界でした。試行錯誤の中で見えてきた“さじ加減”を語ります。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://storage.findy-code.io/storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTExMDg4LCJwdXIiOiJibG9iX2lkIn19--08d67e32da038a51591231263783afd1663fcb9c/AI%E3%81%AE%E3%81%95%E3%81%97%E3%82%99%E5%8A%A0%E6%B8%9B_%E3%81%BF%E3%82%84%E3%81%A3%E3%81%A1%E3%81%95%E3%82%93_%E3%83%AC%E3%83%92%E3%82%99%E3%83%A5%E3%83%BC%E6%B8%88.png"
+  },
+  {
+    "id": "t180d9il6",
+    "url": "https://tech-lab.sios.jp/archives/52303",
+    "title": "YAMLの変更点を見落とさない！diffより強力なYAML差分確認ツール『dyff』のすすめ | SIOS Tech Lab",
+    "description": "Kubernetesを利用する中で、yamlファイルの差分を確認することがよくあります。 差分確認コマンドと言えばdiffコマンドが一般的ですが、yamlファイルは行単位ではなく設定単位で比較を行いたいケースが多いので、diffコマンドを使うのが難しいです。 そんな時に役立つdyffというツールをご紹介します。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://tech-lab.sios.jp/wp-content/uploads/2026/03/4c85c234076325c638e2c305400f29d6.jpg"
+  },
+  {
+    "id": "7sov04kd7",
+    "url": "https://wirelesswire.jp/2026/04/93202/",
+    "title": "突如実用化した1ビットLLM Bonsai-8B もう推論にGPUはほぼ不要になる。その先に何が起きるか",
+    "description": "ソフトウェアの革命は、突然やってくる。ように見える。 カリフォルニア工科大学(以下カルテック)のババク・ハッシ…",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://wirelesswire.jp/wp-content/themes/wirelesswire_v3/asset/images/logo.svg"
+  },
+  {
+    "id": "9vy4nctq6",
+    "url": "https://news.ycombinator.com/item?id=47652561",
+    "title": "Gemma 4 on iPhone | Hacker News",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "y18.svg"
+  },
+  {
+    "id": "0qk5ihyjc",
+    "url": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa",
+    "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10 - Qiita",
+    "description": "Claude Code は Anthropic 公式の CLI エージェントです。ターミナルから直接 Claude を呼び出し、コード生成・編集・デバッグ・Git 操作・プロジェクト管理まで一気通貫で行えます。 この記事では 2026 年 4 月時点の全機能をカテゴリ別に整...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNSVBRSU4QyVFNSU4NSVBOCVFMyU4MyVBQSVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MiVCOSUyMCVFMiU4MCU5NCUyMCVFNSU4NSVBOCVFNiVBOSU5RiVFOCU4MyVCRCVFNyVCNiVCMiVFNyVCRSU4NSUyQiVFNiU4NCU4RiVFNSVBNCU5NiVFMyU4MSVBOCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFNCVCRSVCRiVFNSU4OCVBOSVFNiVBOSU5RiVFOCU4MyVCRCVFMyU4MyU4OCVFMyU4MyU4MyVFMyU4MyU5NzEwJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGNkNjRiZWU2MzBkMzA1OGNmOGI3MzgxNDk5OTdjODU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4c5dfafb5a330f1a05d2f65cc88259d8"
+  },
+  {
+    "id": "beqrt5s41",
+    "url": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103",
+    "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～ - Qiita",
+    "description": "AI Coding Agentの2026年3月の動向 AI Coding.Infoというサイトを2025年7月から運営しています。 これは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-06",
+    "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM5NjQzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNDczNzIwOTY3P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jZmVkMDZmNGJkNmE0ZjAzNjk3ZmRjMTYyY2U1YWQ4NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D77f05906baad80f9264d473d6e872119?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOSVBNiU5NiVFNCVCRCU4RCVFOSU5OSVBNSVFOCU5MCVCRCVFMyU4MCU4MkNvZGV4JUUzJTgxJThDJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgyJUEyTm8uMSVFMyU4MSVCOCVFMyU4MCU4MiUyMCVFRiVCRCU5RSVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MSVBNyVFOCVBNiU4QiVFMyU4MiU4QjIwMjYlRTUlQjklQjQzJUU2JTlDJTg4JUUzJTgxJUFFQUklMjBDb2RpbmclRTMlODElQUUlRTUlOEIlOTUlRTUlOTAlOTElRTMlODElQkUlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02OTNlZWY3MDYwNTliNjkxNjcxYmYzMmExMmQ4OWUxOQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrb3RhdWNoaXN1bnN1biZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQwNWU4ZDE1MjNiNDkxMjc4OTk4OTg1NWNhNzM1N2Ez&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=115813a44f82fa0a25948e918c4e2c52"
+  },
+  {
     "id": "85a8rzlwj",
     "url": "https://smhn.info/202604-mlit-geospatial-mcp-server",
     "title": "  【朗報】国土交通省、MCPサーバー公開 - すまほん!!",
