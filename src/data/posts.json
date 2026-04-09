@@ -1,5 +1,73 @@
 [
   {
+    "id": "p8zj0n99i",
+    "url": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
+    "title": "デザインシステムを丸ごと Skills にする",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-09",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--TPSio84Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%2520Skills%2520%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mugi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VjOTA1OThlNjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25A6%25E3%2582%25BA%2520%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lZS0x0S2tsVUwtM01qTkJ2YU1DWkZxdmFGTWtMVFl2T2pJT29SLVE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+  },
+  {
+    "id": "sg6t86oo3",
+    "url": "https://zenn.dev/aircloset/articles/d9fc317c1336c2",
+    "title": "社内業務をAIに開放 — 自社MCPサーバー群一挙公開！",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-09",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--wAJgGEmx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592AI%25E3%2581%25AB%25E9%2596%258B%25E6%2594%25BE%2520%25E2%2580%2594%2520%25E8%2587%25AA%25E7%25A4%25BEMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E7%25BE%25A4%25E4%25B8%2580%25E6%258C%2599%25E5%2585%25AC%25E9%2596%258B%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+  },
+  {
+    "id": "5xzp29dxh",
+    "url": "https://zenn.dev/dely_jp/articles/5d4e89c275789f",
+    "title": "Claude Code を並列で回す WezTerm ターミナル構成",
+    "description": "No description available.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-09",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9JRsTUuD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2582%2592%25E4%25B8%25A6%25E5%2588%2597%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2599%2520WezTerm%2520%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E6%25A7%258B%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:s_hamabata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg2ZTFjZWIzODYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+  },
+  {
+    "id": "b4t2lwrzy",
+    "url": "https://kakehashi-dev.hatenablog.com/entry/2026/04/07/090000",
+    "title": "Claude Codeに社内の情報を集約させたら、要求分析の立ち上げがスムーズに回り始めた - KAKEHASHI Tech Blog",
+    "description": "こんにちは、認証・権限管理基盤チームの五十嵐です。 直近のプロジェクトで、Claude Codeに既存のコードベース・Slack・社内ドキュメント（Confluence）を読み込ませ、要求分析の叩き台を生成するという取り組みを行いました。 今回はその具体的な進め方と結果を共有します！ 背景と課題 私が所属していたチームは2026年01月に認証・権限基盤チームに統合となり、統合先のメンバーと一緒に働くことになりました。 直近の新しいプロジェクトで、エンジニア主導で要求分析を行おうと試みましたが下記のような課題がありました。 メンバー全員が既存システムに詳しいわけではない 既存システムの業務知識が…",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-09",
+    "imageUrl": "https://ogimage.blog.st-hatena.com/26006613781264652/17179246901370764829/1775520639"
+  },
+  {
+    "id": "vzyfcoyvu",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/08/news110.html",
+    "title": "最新AI「Claude Mythos」がSFすぎる件　研究者の作った”牢”を脱出、悪用懸念で一般公開なし──まるで映画の序章",
+    "description": "すでに“AI界隈”では注目の的になっている「Claude Mythos Preview」。性能や安全性に関する情報をまとめた「システムカード」には、開発初期のテスト過程も記載されており、その内容はまるでSF小説さながらだ。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-09",
+    "imageUrl": "https://image.itmedia.co.jp/news/articles/2604/08/cover_news110.jpg"
+  },
+  {
     "id": "bu3rsl7al",
     "url": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
     "title": "デザインシステムを丸ごと Skills にする",
