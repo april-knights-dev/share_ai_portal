@@ -1,5 +1,60 @@
 [
   {
+    "id": "lxbk0747o",
+    "url": "https://note.com/naofumit/n/n2835cd8fbe87",
+    "title": "全社へのClaude Code大号令 — 1ヶ月で200個のアプリと300件のナレッジから見えたこと｜Naofumi Tsuchiya / Goodpatch",
+    "description": "実は3月の頭にグッドパッチの事業部所属のメンバー全員にClaude Codeを使って1アプリケーションを作ってデプロイまでやりなさいという大号令を出しました。 3月頭の全社ミーティングにて。MDは営業。※esaはグッドパッチのナレッジ投稿ツールです。 この時はグッドパッチの社員達は僕がどこまで本気かは、捉え方はそれぞれでしたが、後に社内ではClaude Code大号令＃CC令とハッシュタグが付き、グッドパッチ過去最大のムーブメントとなりました。   なぜこんな大号令を出したのか  それは2月上旬に僕自身がClaude Codeで昔会社で使っていた年間300万払っていたSaaSのクローン",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-10",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/265766875/rectangle_large_type_2_8e4bb762a78366450a8808805d866f2a.jpeg?fit=bounds&quality=85&width=1280"
+  },
+  {
+    "id": "34v0jb90j",
+    "url": "https://caddi.tech/2026/04/07/110000",
+    "title": "AIのお世話が辛いのでUsecase Design Docを書く - CADDi Tech Blog",
+    "description": "私たちのチームでは全員がAIエージェントを活用して実装しPR作成まで行なっています。 私自身を含め、全く自分でコードを書かなくなったメンバーもいます。AIエージェントを使ってから個人のアウトプットは大きく増えましたが、その分**AIのマネジメント(お世話)の負荷**が高まっていました。 今回紹介するUsecase Design Docと呼ばれるドキュメントと関連する施策を通して、このAIのお世話の負荷を軽減しました。またそれに付随して1日にマージできるPRの数は2倍になっています。 この記事では、AIエージェントを利用した開発で増大するAIのお世話の負荷をどう軽減したかを、具体的な開発プロセスと合わせてお伝えします。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-10",
+    "imageUrl": "https://ogimage.blog.st-hatena.com/6801883189080957472/17179246901370784318/1775629714"
+  },
+  {
+    "id": "gdxe3wmbj",
+    "url": "https://gigazine.net/news/20260410-anthropic-advisor-tool/",
+    "title": "安いClaudeモデルと高いClaudeモデルを組み合わせて「安価かつ高性能なAI」として動作させる仕組みをAnthropicが公開",
+    "description": "AI「Claude」は複数のモデルが提供されていますが、性能によって利用料金が異なります。コストを抑える方法として、提供元のAnthropicが「安いモデルと高いモデルを組み合わせる」という方法を共有し、複数のAIを組み合わせるためのツール「アドバイザーツール」を導入しました。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-10",
+    "imageUrl": "https://i.gzn.jp/img/2026/04/10/anthropic-advisor-tool/00.jpg"
+  },
+  {
+    "id": "evg6pael5",
+    "url": "https://note.com/naofumit/n/n2835cd8fbe87",
+    "title": "全社へのClaude Code大号令 — 1ヶ月で200個のアプリと300件のナレッジから見えたこと｜Naofumi Tsuchiya / Goodpatch",
+    "description": "実は3月の頭にグッドパッチの事業部所属のメンバー全員にClaude Codeを使って1アプリケーションを作ってデプロイまでやりなさいという大号令を出しました。 3月頭の全社ミーティングにて。MDは営業。※esaはグッドパッチのナレッジ投稿ツールです。 この時はグッドパッチの社員達は僕がどこまで本気かは、捉え方はそれぞれでしたが、後に社内ではClaude Code大号令＃CC令とハッシュタグが付き、グッドパッチ過去最大のムーブメントとなりました。   なぜこんな大号令を出したのか  それは2月上旬に僕自身がClaude Codeで昔会社で使っていた年間300万払っていたSaaSのクローン",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-10",
+    "imageUrl": "https://assets.st-note.com/production/uploads/images/265766875/rectangle_large_type_2_8e4bb762a78366450a8808805d866f2a.jpeg?fit=bounds&quality=85&width=1280"
+  },
+  {
     "id": "8b7qrduum",
     "url": "https://note.com/naofumit/n/n2835cd8fbe87",
     "title": "全社へのClaude Code大号令 — 1ヶ月で200個のアプリと300件のナレッジから見えたこと｜Naofumi Tsuchiya / Goodpatch",
