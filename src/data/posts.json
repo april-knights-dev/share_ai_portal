@@ -1,5 +1,100 @@
 [
   {
+    "id": "856rijed6",
+    "url": "https://gihyo.jp/article/2026/04/cursor-3",
+    "title": "Cursor 3リリース ―AIエージェントコーディング向けにUIを刷新 | gihyo.jp",
+    "description": "Anysphereは2026年4月2日、AIコーディングエディタCursorの新バージョンCursor 3をリリースした。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://gihyo.jp/assets/images/article/2026/04/cursor-3/001.png"
+  },
+  {
+    "id": "8imjq9c2p",
+    "url": "https://www.watch.impress.co.jp/docs/news/2099029.html",
+    "title": "OpenAI、Codexを従量課金に　Business料金も値下げ",
+    "description": "OpenAIは2日(米国時間)、コーディングエージェント「Codex」において、従量課金制の料金プランを提供開始した。ChatGPT BusinessおよびEnterprise向けに、固定料金なしでCodexの全機能を利用できる。また、ChatGPT Businessの年間料金も値下げする。",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2099/029/01.jpg"
+  },
+  {
+    "id": "v8otk87ed",
+    "url": "https://japan.cnet.com/article/35245896/",
+    "title": "「Claude Code」のソースコードをうっかり公開、Anthropicが人為的ミスを認める",
+    "description": "AI企業のAnthropicは、自社の人気コーディングツール「Claude Code」のソースコードを誤って公開した。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://japan.cnet.com/storage/2026/04/01/364b3b45570522701e9ddd99d284ce06/gettyimages-2261821464_1280x960.jpg"
+  },
+  {
+    "id": "c8tfhwmx4",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+    "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+    "description": "Claude vs. Claw.",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "id": "x62nost8f",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "description": "Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_meta-dark.width-1300.png"
+  },
+  {
+    "id": "zpam7b2aj",
+    "url": "https://www.nii.ac.jp/news/release/2026/0403.html",
+    "title": "約12兆トークンの良質なコーパスで学習した新たな国産LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開～一部ベンチマークでGPT-4oやQwen3-8Bを上回る性能を達成～ - 国立情報学研究所 / National Institute of Informatics",
+    "description": "国立情報学研究所は、情報学という新しい研究分野での「未来価値創成」を目指すわが国唯一の学術総合研究所として、ネットワーク、ソフトウェア、コンテンツなどの情報関連分野の新しい理論・方法論から応用展開までの研究開発を総合的に推進しています。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://www.nii.ac.jp/_img/ogp.jpg"
+  },
+  {
+    "id": "35g2875qf",
+    "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+    "title": "Today we're announcing 3 new world class MAI models, available in Foundry",
+    "description": "No description available.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-12",
+    "imageUrl": "https://microsoft.ai/wp-content/uploads/2026/04/social02.jpg"
+  },
+  {
     "id": "lxbk0747o",
     "url": "https://note.com/naofumit/n/n2835cd8fbe87",
     "title": "全社へのClaude Code大号令 — 1ヶ月で200個のアプリと300件のナレッジから見えたこと｜Naofumi Tsuchiya / Goodpatch",
