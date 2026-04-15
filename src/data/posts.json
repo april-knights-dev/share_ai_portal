@@ -1,5 +1,18 @@
 [
   {
+    "id": "ka08uguyb",
+    "url": "https://nihonbuson.hatenadiary.jp/entry/QA-activities-in-response-to-generated-code",
+    "title": "翻訳記事「AIコーディングツールによって加速するコード生成に品質保証活動はどう立ち向かうか」 - ブロッコリーのブログ",
+    "description": "はじめに 本記事は、Lilia Abdulina（JetBrains の QA責任者）による研究（Vitaly Sharovatovが協力）である「QA in the Age of AI-Accelerated Development」の翻訳記事です*1。 本記事は許諾を得た上で翻訳しています*2。 なお、本記事は現在もGitHub上でディスカッションが続けられています。記事を読んで気になった方や疑問を持った方はぜひディスカッションに参加してください！ 本記事の主な見どころ AIによって「理解の負債」だけでなく、「意図の負債」も増えている AI以前では副産物として獲得できていた「ビジネスドメイ…",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-14",
+    "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d98ea6d004e4d4e13a115393103845707d8a2d97/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnihonbuson%2F20260410%2F20260410121917.png"
+  },
+  {
     "id": "4wv3ge9go",
     "url": "https://nihonbuson.hatenadiary.jp/entry/QA-activities-in-response-to-generated-code",
     "title": "翻訳記事「AIコーディングツールによって加速するコード生成に品質保証活動はどう立ち向かうか」 - ブロッコリーのブログ",
