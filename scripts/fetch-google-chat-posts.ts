@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import ogs from 'open-graph-scraper';
 import { fileURLToPath } from 'url';
+import { randomUUID } from 'crypto';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // ESモジュールでの__dirnameの代替
@@ -96,9 +97,9 @@ function fallbackCategorization(title: string, description: string): { category:
     const tags = ['AI', 'Tech'];
 
     const lowerTitle = title.toLowerCase();
-    const lowerDescription = description.toLowerCase();
+    const lowerDesc = description.toLowerCase();
 
-    if (lowerTitle.includes('gpt') || lowerTitle.includes('llm') || lowerTitle.includes('gemini') || lowerTitle.includes('claude') || lowerDescription.includes('llm')) {
+    if (lowerTitle.includes('gpt') || lowerTitle.includes('llm') || lowerTitle.includes('gemini') || lowerTitle.includes('claude') || lowerDesc.includes('llm')) {
         category = 'LLM';
         tags.push('LLM');
     } else if (lowerTitle.includes('image') || lowerTitle.includes('video') || lowerTitle.includes('midjourney') || lowerTitle.includes('runway')) {
@@ -255,7 +256,7 @@ async function fetchGoogleChatPosts() {
                     const { category, tags } = await categorizeWithAI(title, description);
 
                     const newItem: LinkItem = {
-                        id: Math.random().toString(36).substr(2, 9),
+                        id: randomUUID(),
                         url: cleanUrl,
                         title,
                         description,
