@@ -45,7 +45,7 @@ interface GoogleChatListResponse {
 async function categorizeWithAI(title: string, description: string): Promise<{ category: string; tags: string[] }> {
     if (!geminiApiKey) {
         console.warn('GEMINI_API_KEY not set, using fallback categorization');
-        return fallbackCategorization(title, description);
+        return fallbackCategorization(title);
     }
 
     try {
@@ -87,19 +87,17 @@ JSON形式で以下のように回答してください:
         throw new Error('Failed to parse AI response');
     } catch (error) {
         console.error('AI categorization failed, using fallback:', error);
-        return fallbackCategorization(title, description);
+        return fallbackCategorization(title);
     }
 }
 
 // フォールバック用のキーワードベース分類
-function fallbackCategorization(title: string, description: string): { category: string; tags: string[] } {
+function fallbackCategorization(title: string): { category: string; tags: string[] } {
     let category = 'ニュース';
     const tags = ['AI', 'Tech'];
 
     const lowerTitle = title.toLowerCase();
-    const lowerDesc = description.toLowerCase();
-
-    if (lowerTitle.includes('gpt') || lowerTitle.includes('llm') || lowerTitle.includes('gemini') || lowerTitle.includes('claude') || lowerDesc.includes('llm')) {
+    if (lowerTitle.includes('gpt') || lowerTitle.includes('llm') || lowerTitle.includes('gemini') || lowerTitle.includes('claude')) {
         category = 'LLM';
         tags.push('LLM');
     } else if (lowerTitle.includes('image') || lowerTitle.includes('video') || lowerTitle.includes('midjourney') || lowerTitle.includes('runway')) {
@@ -125,8 +123,7 @@ async function fetchGoogleChatMessages(space: string, accessToken: string): Prom
 
     do {
         const params = new URLSearchParams({
-            pageSize: '100',
-            orderBy: 'DESC'
+            pageSize: '100'
         });
 
         if (pageToken) {
@@ -256,7 +253,7 @@ async function fetchGoogleChatPosts() {
                     const { category, tags } = await categorizeWithAI(title, description);
 
                     const newItem: LinkItem = {
-                        id: randomUUID(),
+                        id: randomUUID().replace(/-/g, '').slice(0, 9),
                         url: cleanUrl,
                         title,
                         description,
