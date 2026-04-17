@@ -33,10 +33,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch Slack Posts
+      - name: Fetch Google Chat Posts
         env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          GOOGLE_CHAT_ACCESS_TOKEN: ${{ secrets.GOOGLE_CHAT_ACCESS_TOKEN }}
+          GOOGLE_CHAT_SPACE: ${{ secrets.GOOGLE_CHAT_SPACE }}
         run: npm run update-data
 
       - name: Commit and Push changes

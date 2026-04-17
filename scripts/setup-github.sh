@@ -43,13 +43,13 @@ gh repo create "$REPO_NAME" --public --source=. --remote=origin --push || {
 # 5. Secretsの設定
 echo ""
 echo "🔑 GitHub Secretsを設定中..."
-echo "   SLACK_BOT_TOKEN を入力してください:"
-read -s SLACK_BOT_TOKEN
-gh secret set SLACK_BOT_TOKEN --body "$SLACK_BOT_TOKEN"
+echo "   GOOGLE_CHAT_ACCESS_TOKEN を入力してください:"
+read -s GOOGLE_CHAT_ACCESS_TOKEN
+gh secret set GOOGLE_CHAT_ACCESS_TOKEN --body "$GOOGLE_CHAT_ACCESS_TOKEN"
 
-echo "   SLACK_CHANNEL_ID を入力してください:"
-read SLACK_CHANNEL_ID
-gh secret set SLACK_CHANNEL_ID --body "$SLACK_CHANNEL_ID"
+echo "   GOOGLE_CHAT_SPACE を入力してください:"
+read GOOGLE_CHAT_SPACE
+gh secret set GOOGLE_CHAT_SPACE --body "$GOOGLE_CHAT_SPACE"
 
 # 6. GitHub Pagesの有効化
 echo ""

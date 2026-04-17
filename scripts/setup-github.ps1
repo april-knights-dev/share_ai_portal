@@ -46,16 +46,16 @@ if ($LASTEXITCODE -ne 0) {
 # 5. Secretsの設定
 Write-Host ""
 Write-Host "🔑 GitHub Secretsを設定中..." -ForegroundColor Yellow
-Write-Host "   SLACK_BOT_TOKEN を入力してください:" -ForegroundColor Cyan
-$SLACK_BOT_TOKEN = Read-Host -AsSecureString
-$SLACK_BOT_TOKEN_Plain = [Runtime.InteropServices.Marshal]::PtrToStringAuto(
-    [Runtime.InteropServices.Marshal]::SecureStringToBSTR($SLACK_BOT_TOKEN)
+Write-Host "   GOOGLE_CHAT_ACCESS_TOKEN を入力してください:" -ForegroundColor Cyan
+$GOOGLE_CHAT_ACCESS_TOKEN = Read-Host -AsSecureString
+$GOOGLE_CHAT_ACCESS_TOKEN_Plain = [Runtime.InteropServices.Marshal]::PtrToStringAuto(
+    [Runtime.InteropServices.Marshal]::SecureStringToBSTR($GOOGLE_CHAT_ACCESS_TOKEN)
 )
-gh secret set SLACK_BOT_TOKEN --body $SLACK_BOT_TOKEN_Plain
+gh secret set GOOGLE_CHAT_ACCESS_TOKEN --body $GOOGLE_CHAT_ACCESS_TOKEN_Plain
 
-Write-Host "   SLACK_CHANNEL_ID を入力してください:" -ForegroundColor Cyan
-$SLACK_CHANNEL_ID = Read-Host
-gh secret set SLACK_CHANNEL_ID --body $SLACK_CHANNEL_ID
+Write-Host "   GOOGLE_CHAT_SPACE を入力してください:" -ForegroundColor Cyan
+$GOOGLE_CHAT_SPACE = Read-Host
+gh secret set GOOGLE_CHAT_SPACE --body $GOOGLE_CHAT_SPACE
 
 # 6. GitHub Pagesの有効化
 Write-Host ""
