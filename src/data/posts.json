@@ -1,5 +1,84 @@
 [
   {
+    "id": "ghn3kpwrn",
+    "url": "https://www.nikkei.com/article/DGXZQOGN09D080Z00C26A4000000/",
+    "title": "アンソロピック、作業自動化AI「Cowork」一般提供開始　ソフト株下落 - 日本経済新聞",
+    "description": "【シリコンバレー=山田遼太郎】米人工知能（AI）新興アンソロピックは9日、事務作業を自動化するAI「Cowork（コワーク）」の一般提供を始めた。企業が社員の利用状況を管理する機能を加えた。AIに市場を奪われる懸念で9日の米株式市場でソフト株が下落した。コワークは同社が1月に試験提供を始めたAIツール。仕事に使う資料作成やデータ分析をAIに対話形式で指示し、作業を自動化できる。一般提供にあた",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2873808010042026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=d5b522bd30d21bdccdf8e716c9b5d603"
+  },
+  {
+    "id": "pwpyjbux6",
+    "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+    "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+    "description": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "https://media.wired.com/photos/69d55aad5eeab2b48af87714/191:100/w_1280,c_limit/Business_AnthropicLaunchesClaudeManagedAgents.jpg"
+  },
+  {
+    "id": "fjotfwrbt",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic? | TechCrunch",
+    "description": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182"
+  },
+  {
+    "id": "rlo1ac074",
+    "url": "https://news.yahoo.co.jp/articles/8d91e0d37e5406df2d43161bdf31dd9e471deba6",
+    "title": "Genspark 4.0は「Claw」ローカル対応でユーザーPCを操作　Officeと連携（Impress Watch） - Yahoo!ニュース",
+    "description": "Gensparkは、次世代オールインワンAIワークスペース「Genspark AI ワークスペース 4.0」を発表した。新たにローカルPC環境で利用できるデスクトップ向け「Genspark Claw",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260408-00000011-impress-000-1-view.jpg?exp=10800"
+  },
+  {
+    "id": "llbr2vxfg",
+    "url": "https://hbr.org/2026/02/to-thrive-in-the-ai-era-companies-need-agent-managers",
+    "title": "To Thrive in the AI Era, Companies Need Agent Managers",
+    "description": "As autonomous AI agents move from experimentation to execution, companies are discovering they need a new kind of leader to manage them. Drawing on examples from Salesforce and other large organizations, this article introduces the role of the agent manager—leaders responsible for orchestrating how AI agents learn, collaborate, perform, and work safely alongside humans. Just as product managers emerged during the software revolution, agent managers are becoming essential to translating strategic intent into reliable outcomes in an AI-powered, hybrid workforce.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "/resources/images/article_assets/2026/02/Feb26_12_2834488.jpg"
+  },
+  {
+    "id": "rlwgqfx0o",
+    "url": "https://www.itmedia.co.jp/aiplus/spv/2604/09/news062.html",
+    "title": "「Gemini」アプリで「NotebookLM」を直接利用可能に　「Notebooks」セクション新設",
+    "description": "Googleは、AIアプリ「Gemini」に新機能「Notebooks」を追加した。NotebookLMとの連携を強化し、サイドバーから直接ノートブックの作成や管理が可能になる。特定資料に基づいた回答生成や、長文執筆機能「Canvas」、音声概説の生成もGemini上で完結する。有料プランユーザーから順次利用可能になる。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-17",
+    "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2604/09/cover_news062.jpg"
+  },
+  {
     "id": "exwuw3oxh",
     "url": "https://www.nikkei.com/article/DGXZQOGN09D080Z00C26A4000000/",
     "title": "アンソロピック、作業自動化AI「Cowork」一般提供開始　ソフト株下落 - 日本経済新聞",
