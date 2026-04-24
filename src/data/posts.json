@@ -1,5 +1,87 @@
 [
   {
+    "id": "n2ecaogrc",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "title": "Introducing Claude Opus 4.7",
+    "description": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. ",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png"
+  },
+  {
+    "id": "gcwvwmjs8",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news080.html",
+    "title": "Anthropic、「Claude Code」デスクトップ版を刷新　並列エージェント対応でマルチタスクを強化",
+    "description": "Anthropicは「Claude Code」のデスクトップアプリを刷新し、並列エージェントのサポートなど複数の新機能を発表した。複数タスクの同時処理が可能になったほか、メインスレッドを維持したまま会話できるサイドチャットや統合ターミナルを搭載。ローカルおよびクラウドでの柔軟なセッション実行により、開発効率の向上を図る。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2604/15/cover_news080.jpg"
+  },
+  {
+    "id": "ndqb2nxkx",
+    "url": "https://openai.com/ja-JP/index/codex-for-almost-everything/",
+    "title": "（ほぼ）あらゆる作業に対応する Codex",
+    "description": "macOS および Windows 版の Codex アプリには、コンピューター操作、アプリ内ブラウジング、画像生成、メモリ、プラグインが追加され、開発者のワークフローを加速します。",
+    "category": "開発/コード",
+    "tags": [
+      "AI",
+      "Tech",
+      "Development"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3kzRaZHk3LsNCB1rF3btFd/f210774dba646ae91ead20a46d89d364/Codex_Blog_SEO.png?w=1600&h=900&fit=fill"
+  },
+  {
+    "id": "82vnrqrwt",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2101693.html",
+    "title": "Anthropic、「Claude Code」の新機能「ルーチン」を発表 ～自動実行の新しい仕組み／リサーチプレビューとして「Pro」、「Max」、「Team」、「Enterprise」プランでテスト",
+    "description": "　米Anthropicは4月15日（日本時間）、「Claude Code」の新機能「ルーチン」（routines）を発表した。まずはリサーチプレビューとして「Pro」、「Max」、「Team」、「Enterprise」プランでテストされる。",
+    "category": "LLM",
+    "tags": [
+      "AI",
+      "Tech",
+      "LLM"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2101/693/claude.jpg"
+  },
+  {
+    "id": "unv9er5e7",
+    "url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2101682.html",
+    "title": "[みんなのケータイ]スマホに載せたローカルAI「Gemma4」に未来を感じる",
+    "description": "　スマホやパソコンで「AIが使える」と言っても、多くの場合、“窓口”に過ぎません。実際の処理は、インターネットの向こう側、データセンターの巨大なコンピュータで動いています。AIはそれだけ大量のメモリーと計算能力を必要とするからです。",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/2101/682/51.jpg"
+  },
+  {
+    "id": "yobtxn748",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents | TechCrunch",
+    "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "category": "ニュース",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "date": "2026-04-24",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
+  },
+  {
     "id": "ghn3kpwrn",
     "url": "https://www.nikkei.com/article/DGXZQOGN09D080Z00C26A4000000/",
     "title": "アンソロピック、作業自動化AI「Cowork」一般提供開始　ソフト株下落 - 日本経済新聞",
