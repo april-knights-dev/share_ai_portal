@@ -6,7 +6,7 @@ description: Update data fetching script and fix UI layout
 
 ## 1. データ管理とスクリプトの改修
 - [ ] `src/data/posts.json` から初期のMockデータ（IDが1桁のもの）を削除する。
-- [ ] `scripts/fetch-slack-posts.ts` を改修する。
+- [ ] `scripts/fetch-google-chat-posts.ts` を改修する。
     - [ ] コマンドライン引数で取得期間（日数）を指定できるようにする（デフォルトは1日）。
     - [ ] タイトルが "No Title" の場合、または取得に失敗した場合はデータを保存しないようにする。
 - [ ] `package.json` に期間指定実行用のスクリプト（例: `npm run update-data:history`）を追加する。

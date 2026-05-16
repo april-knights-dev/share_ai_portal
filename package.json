@@ -8,14 +8,13 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "update-data": "tsx scripts/fetch-slack-posts.ts",
-    "update-data:history": "tsx scripts/fetch-slack-posts.ts --days=30",
+    "update-data": "tsx scripts/fetch-google-chat-posts.ts",
+    "update-data:history": "tsx scripts/fetch-google-chat-posts.ts --days=30",
     "deduplicate": "tsx scripts/deduplicate-data.ts",
     "get-url": "tsx scripts/get-url.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
-    "@slack/web-api": "^7.12.0",
     "dotenv": "^17.2.3",
     "lucide-react": "^0.554.0",
     "open-graph-scraper": "^6.10.0",
